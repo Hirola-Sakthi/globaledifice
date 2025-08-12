@@ -1,0 +1,577 @@
+[
+    {
+        "metaTitle": "Global Edifice Orlean | 2 & 3 BHK Apartment for Sale in Chandapura",
+        "metaDescription": "Explore Global Edifice Orlean 2 3 BHK apartments in Chandapura, Bangalore with modern amenities, spacious layouts, and a prime location Find your dream home!",
+        "title": "Global Edifice Orlean",
+        "slug": "orlean-in-chandapura-bangalore",
+        "description": "Designed for those who appreciate fine living, Orlean is a premium residential project that seamlessly blends luxury, comfort, and functionality. Every detail is thoughtfully planned by Global Edifice to enhance your lifestyle whether it’s the spacious layouts with no common walls, the ample natural light and ventilation, or the wide corridors that create an open and airy ambiance.",
+        "description2": "Strategically located, Orlean offers easy access to key hubs, ensuring you stay connected to the city's best while enjoying the tranquility of a well-planned community. Vastu-compliant architecture, top-notch amenities, and impeccable craftsmanship make Orlean more than just a home—it’s a statement of refined living at Global Edifice",
+        "price": "Starting From 76 Lakhs",
+        "acre": "1.5",
+        "acretext": "ACRES",
+        "acreImg": "/icons/icons8-dimension-100.png",
+        "sqft": "1134 - 1590",
+        "sqfttext": "sq. ft.",
+        "sqftImg": "/icons/icons8-floor-plan-100.png",
+        "BHK": "Apartment",
+        "BHKtext": "Project Type",
+        "projectTypeImg": "/icons/icons8-apartment-100.png",
+        "unitstext": "Project Status",
+        "units": "In Progress",
+        "unitsImg": "/icons/icons8-status-100.png",
+        "phone": "+91 9739011616",
+        "location": "Chandapura, Bangalore",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.5070293805566!2d77.70610927512013!3d12.810478887490195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6d0024caaa43%3A0x30fb19749e52f569!2sGlobal%20Edifice%20Orlean!5e0!3m2!1sen!2sin!4v1747038712195!5m2!1sen!2sin",
+        "img2": "/project-images/orlean-images/gallery2.2.webp",
+        "img1": "/project-images/orlean-images/gallery2.6.webp",
+        "projectMainLogo": "/project-images/orlean-images/orleanalogo1.1.avif",
+        "amenities": [
+            {
+                "text": "Gym",
+                "img": "/icons/icons8-gym-100.png"
+            },
+            {
+                "text": "Walking Track",
+                "img": "/icons/icons8-walking-100.png"
+            },
+            {
+                "text": "Multipurpose Court",
+                "img": "/icons/soccer-field_783468.png"
+            },
+            {
+                "text": "Swimming Pool",
+                "img": "/icons/pool.png"
+            },
+            {
+                "text": "Half Basketball Court",
+                "img": "/icons/basketball-hoop_18555743.png"
+            },
+            {
+                "text": "Gazebo",
+                "img": "/icons/icons8-gazebo-100.png"
+            },
+            {
+                "text": "Cricket Pitch",
+                "img": "/icons/wicket_7153287.png"
+            },
+            {
+                "text": "24/7 Security",
+                "img": "/icons/24-hours-service_14252180.png"
+            },
+            {
+                "text": "Kids Pool",
+                "img": "/icons/duck_8992553.png"
+            },
+            {
+                "text": "Kids Play Area",
+                "img": "/icons/playground_10683785.png"
+            }
+        ],
+        "landmarkList": "true",
+        "landmarkHeading1": "Educational Institutions",
+        "Landmarks1": [
+            {
+                "land": "Sri Chaitanya School"
+            },
+            {
+                "land": "SFS Academy"
+            },
+            {
+                "land": "National Public School"
+            },
+            {
+                "land": "D-Sales Academy"
+            },
+            {
+                "land": "Swami Vivekanada College"
+            },
+            {
+                "land": "Alliance University"
+            },
+            {
+                "land": "Spoorthi Institute"
+            }
+        ],
+        "landmarkHeading2": "Hospitals",
+        "Landmarks2": [
+            {
+                "land": "Narayana Institution"
+            },
+            {
+                "land": "Oxford Medical Institute"
+            },
+            {
+                "land": "Best Hospital"
+            },
+            {
+                "land": "Athreya Hospital"
+            },
+            {
+                "land": "Sparsh Hospital"
+            }
+        ],
+        "landmarkHeading3": "Corporate Hubs",
+        "Landmarks3": [
+            {
+                "land": "Infosys"
+            },
+            {
+                "land": "Biocon"
+            },
+            {
+                "land": "Tech Machindra"
+            },
+            {
+                "land": "TCS"
+            },
+            {
+                "land": "Siemens"
+            },
+            {
+                "land": "Wipro"
+            }
+        ],
+        "landmarkHeading4": "Retail & Entertainment",
+        "Landmarks4": [
+            {
+                "land": "M5"
+            },
+            {
+                "land": "Royal Mart"
+            },
+            {
+                "land": "D Mart"
+            },
+            {
+                "land": "Metro Cash and Carry"
+            }
+        ],
+        "mainImg": [
+            {
+                "img": "/project-images/orlean-masterplan.webp"
+            },
+            {
+                "img": "/project-images/orlean-floorplan.webp"
+            }
+        ],
+        "oneBhkImages": [
+            {
+                "img": "/project-images/orlean-images/1134sq-2bhk-anchor.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1220sqt-2bhk-anchor.webp"
+            }
+        ],
+        "twoBhkImages": [
+            {
+                "img": "/project-images/orlean-images/1395sqt-3bhk-anchor-ne.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1399sqt-3bhk-anchor-ne.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1400sqt-3bhk-anchor-new.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1423sqt-3bhk-anchor.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1499sqt-3bhk-anchor-new.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1563sqt-3bhk-anchor001.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1563sqt-3bhk-anchor-new.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/1590sqt-3bhk-anchor.webp"
+            }
+        ],
+        "images": [
+            {
+                "img": "/project-images/orlean-images/1.jpg"
+            },
+            {
+                "img": "/project-images/orlean-images/2.jpg"
+            },
+            {
+                "img": "/project-images/orlean-images/3.jpg"
+            },
+            {
+                "img": "/project-images/orlean-images/4.jpg"
+            },
+            {
+                "img": "/project-images/orlean-images/5.jpg"
+            },
+            {
+                "img": "/project-images/orlean-images/gallery2.6.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/extra-gallery-orlean-1.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/extra-gallery-orlean-2.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/extra-gallery-orlean-3.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/extra-gallery-orlean-4.webp"
+            },
+            {
+                "img": "/project-images/orlean-images/extra-gallery-orlean-5.webp"
+            }
+        ]
+    },
+    {
+        "metaTitle": "Global Edifice Legacy | Premium 2 & 3 BHK Flats in Chandapura",
+        "metaDescription": "Discover 2 BHK or 3 BHK flat in Chandapura, Bangalore, at Global Edifice Legacy Spacious homes, modern designs, premium amenities a prime location Enquire now!",
+        "title": "Global Edifice Legacy",
+        "slug": "legacy-in-chandapura-bangalore",
+        "description": "A home is more than just four walls it’s where memories are made and legacies are built. Legacy by Global Edifice is designed for families looking for a harmonious blend of nature, luxury, and modern living. Set amidst green open spaces, this thoughtfully crafted project ensures a peaceful retreat while keeping you close to essential conveniences.",
+        "description2": "With expansive layouts, Vastu-compliant homes, and premium amenities, Global Edifice Legacy is built for comfort, security, and a lifestyle that stands the test of time. Whether you're looking to invest in your future or find a home that truly resonates with your aspirations, Legacy offers a living experience unlike any other.",
+        "price": "Starting From 62 Lakhs",
+        "acre": "1",
+        "acretext": "ACRE",
+        "acreImg": "/icons/icons8-dimension-100.png",
+        "sqft": "1075 - 1590",
+        "sqfttext": "sq. ft.",
+        "sqftImg": "/icons/icons8-floor-plan-100.png",
+        "BHK": "Apartment",
+        "BHKtext": "Project Type",
+        "projectTypeImg": "/icons/icons8-apartment-100.png",
+        "unitstext": "Project Status",
+        "units": "In Progress",
+        "unitsImg": "/icons/icons8-status-100.png",
+        "phone": "+91 80 4376 0152",
+        "location": "Chandapura, Bangalore",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3891.134594859436!2d77.7002469751195!3d12.769769987527335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6fd55ca411c9%3A0x8dcc40beeba0bbc1!2sGlobal%20Edifice%20Legacy!5e0!3m2!1sen!2sin!4v1747048102100!5m2!1sen!2sin",
+        "img1": "/project-images/legacy-images/legacy1.webp",
+        "img2": "/project-images/legacy-images/project-listing-legacy.webp",
+        "projectMainLogo": "/project-images/legacy-images/legacylogo1.1.avif",
+        "amenities": [
+            {
+                "text": "Children's Play Area",
+                "img": "/icons/playground_10683785.png"
+            },
+            {
+                "text": "Badminton Court",
+                "img": "/icons/badminton_18293424.png"
+            },
+            {
+                "text": "Swimming Pool",
+                "img": "/icons/pool.png"
+            },
+            {
+                "text": "Gym",
+                "img": "/icons/icons8-gym-100.png"
+            },
+            {
+                "text": "Community Hall",
+                "img": "/icons/governance_12444608.png"
+            },
+            {
+                "text": "24/7 Security",
+                "img": "/icons/24-hours-service_14252180.png"
+            }
+        ],
+        "landmarkList": "true",
+        "landmarkHeading1": "Transit",
+        "Landmarks1": [
+            {
+                "land": " Bus Station 0.5 Km"
+            },
+            {
+                "land": "Railway Station 3.5 Km"
+            },
+            {
+                "land": "Metro Station 5.5 Km"
+            },
+            {
+                "land": "Electronic City 7.5 Km"
+            },
+            {
+                "land": "Silk Board 20 Km"
+            }
+        ],
+        "landmarkHeading2": "Schools",
+        "Landmarks2": [
+            {
+                "land": "National Public 1.5 Km"
+            },
+            {
+                "land": "Manipal International 2.5 Km"
+            },
+            {
+                "land": "De Sales Academy 1.5 Km"
+            },
+            {
+                "land": "Alliance University 2.5 Km"
+            }
+        ],
+        "landmarkHeading3": "Hospitals",
+        "Landmarks3": [
+            {
+                "land": "Narayana Hrudayalaya 4.5 Km"
+            },
+            {
+                "land": "Athreya Hospital 2.5 Km"
+            },
+            {
+                "land": "Sparsh Hospital 4.4 Km"
+            },
+            {
+                "land": "Chakra Hospital 3.5 Km"
+            },
+            {
+                "land": "Vismaya Hospital 5.5 Km"
+            }
+        ],
+        "landmarkHeading4": "WorkHubs",
+        "Landmarks4": [
+            {
+                "land": "Infosys 6.5 Km"
+            },
+            {
+                "land": "Biocon 6.5 Km"
+            },
+            {
+                "land": "Wipro 6.9 Km"
+            },
+            {
+                "land": "TCS 6.5 Km"
+            },
+            {
+                "land": "Mankind 6.5 Km"
+            }
+        ],
+        "mainImg": [
+            {
+                "img": "/project-images/legacy-images/legacy-masterplan.webp"
+            },
+            {
+                "img": ""
+            },
+            {
+                "img": "/ProjectImages/smeraplan3.webp"
+            },
+            {
+                "img": "/ProjectImages/smeraplan4.webp"
+            }
+        ],
+        "oneBhkImages": [
+            {
+                "img": "/project-images/legacy-images/868sqft-2bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/893sqft-2bhk-legacy.webp"
+            }
+        ],
+        "twoBhkImages": [
+            {
+                "img": "/project-images/legacy-images/1153sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1251sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1341sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1206sqft-3bhk-legacy.webp"
+            }
+        ],
+        "images": [
+            {
+                "img": "/project-images/legacy-images/logatagalimg1.1.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.2.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.3.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.4.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.5.webp"
+            }
+        ]
+    },
+    {
+        "title": "Codename: Circle Of Dreams",
+        "slug": "codename-circle-of-dreams",
+        "description": "A home is more than just four walls it’s where memories are made and legacies are built. Legacy by Global Edifice is designed for families looking for a harmonious blend of nature, luxury, and modern living. Set amidst green open spaces, this thoughtfully crafted project ensures a peaceful retreat while keeping you close to essential conveniences.",
+        "description2": "With expansive layouts, Vastu-compliant homes, and premium amenities, Global Edifice Legacy is built for comfort, security, and a lifestyle that stands the test of time. Whether you're looking to invest in your future or find a home that truly resonates with your aspirations, Legacy offers a living experience unlike any other.",
+        "price": "Starting From 70 Lakhs",
+        "acre": "3.5",
+        "acretext": "ACRE",
+        "acreImg": "/icons/icons8-dimension-100.png",
+        "sqft": "1131-1825",
+        "sqfttext": "sq. ft.",
+        "sqftImg": "/icons/icons8-floor-plan-100.png",
+        "BHK": "Apartment",
+        "BHKtext": "Project Type",
+        "projectTypeImg": "/icons/icons8-apartment-100.png",
+        "unitstext": "Project Status",
+        "units": "In Progress",
+        "unitsImg": "/icons/icons8-status-100.png",
+        "phone": "+91 80 4376 0152",
+        "location": "Sarjapura, Bangalore",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3891.134594859436!2d77.7002469751195!3d12.769769987527335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae6fd55ca411c9%3A0x8dcc40beeba0bbc1!2sGlobal%20Edifice%20Legacy!5e0!3m2!1sen!2sin!4v1747048102100!5m2!1sen!2sin",
+        "img1": "/project-images/CircleOfDreams2.jpg",
+        "img2": "/project-images/CircleOfDreams1.jpg",
+        "projectMainLogo": "/project-images/legacy-images/legacylogo1.1.avif",
+        "amenities": [
+            {
+                "text": "Children's Play Area",
+                "img": "/icons/playground_10683785.png"
+            },
+            {
+                "text": "Badminton Court",
+                "img": "/icons/badminton_18293424.png"
+            },
+            {
+                "text": "Swimming Pool",
+                "img": "/icons/pool.png"
+            },
+            {
+                "text": "Gym",
+                "img": "/icons/icons8-gym-100.png"
+            },
+            {
+                "text": "Community Hall",
+                "img": "/icons/governance_12444608.png"
+            },
+            {
+                "text": "24/7 Security",
+                "img": "/icons/24-hours-service_14252180.png"
+            }
+        ],
+        "landmarkList": "true",
+        "landmarkHeading1": "Transit",
+        "Landmarks1": [
+            {
+                "land": " Bus Station 0.5 Km"
+            },
+            {
+                "land": "Railway Station 3.5 Km"
+            },
+            {
+                "land": "Metro Station 5.5 Km"
+            },
+            {
+                "land": "Electronic City 7.5 Km"
+            },
+            {
+                "land": "Silk Board 20 Km"
+            }
+        ],
+        "landmarkHeading2": "Schools",
+        "Landmarks2": [
+            {
+                "land": "National Public 1.5 Km"
+            },
+            {
+                "land": "Manipal International 2.5 Km"
+            },
+            {
+                "land": "De Sales Academy 1.5 Km"
+            },
+            {
+                "land": "Alliance University 2.5 Km"
+            }
+        ],
+        "landmarkHeading3": "Hospitals",
+        "Landmarks3": [
+            {
+                "land": "Narayana Hrudayalaya 4.5 Km"
+            },
+            {
+                "land": "Athreya Hospital 2.5 Km"
+            },
+            {
+                "land": "Sparsh Hospital 4.4 Km"
+            },
+            {
+                "land": "Chakra Hospital 3.5 Km"
+            },
+            {
+                "land": "Vismaya Hospital 5.5 Km"
+            }
+        ],
+        "landmarkHeading4": "WorkHubs",
+        "Landmarks4": [
+            {
+                "land": "Infosys 6.5 Km"
+            },
+            {
+                "land": "Biocon 6.5 Km"
+            },
+            {
+                "land": "Wipro 6.9 Km"
+            },
+            {
+                "land": "TCS 6.5 Km"
+            },
+            {
+                "land": "Mankind 6.5 Km"
+            }
+        ],
+        "mainImg": [
+            {
+                "img": "/project-images/legacy-images/legacy-masterplan.webp"
+            },
+            {
+                "img": ""
+            },
+            {
+                "img": "/ProjectImages/smeraplan3.webp"
+            },
+            {
+                "img": "/ProjectImages/smeraplan4.webp"
+            }
+        ],
+        "oneBhkImages": [
+            {
+                "img": "/project-images/legacy-images/868sqft-2bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/893sqft-2bhk-legacy.webp"
+            }
+        ],
+        "twoBhkImages": [
+            {
+                "img": "/project-images/legacy-images/1153sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1251sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1341sqft-3bhk-legacy.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/1206sqft-3bhk-legacy.webp"
+            }
+        ],
+        "images": [
+            {
+                "img": "/project-images/legacy-images/logatagalimg1.1.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.2.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.3.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.4.webp"
+            },
+            {
+                "img": "/project-images/legacy-images/legacygalleryimg2.5.webp"
+            }
+        ]
+    }
+]

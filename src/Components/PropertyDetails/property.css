@@ -1,0 +1,1604 @@
+.PropertyDetails-main-parent .Edifice-logo img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  filter: brightness(0);
+}
+
+.PropertyBanner-main-parent {
+  padding-top: 100px;
+}
+
+.PropertyDetails-main-parent
+  .HomeNavbar-mainparent
+  .navbar-expand-lg
+  .navbar-nav {
+  gap: 12px;
+  border: 1px solid #000;
+}
+
+img.Modal-inner-image {
+  width: 100%;
+}
+
+.FloorPlans-main-parent {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+/* banner styles starts here */
+a {
+  text-decoration: none !important;
+}
+
+.Banner-main-image {
+  height: 550px;
+  width: 100%;
+  position: relative;
+}
+
+.Banner-main-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+
+.Banner-badge-absolute {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 100px;
+  bottom: -12px;
+  margin-left: 60px;
+}
+
+.Banner-badge-absolute img {
+  height: 100%;
+  width: 100%;
+}
+
+.MarqueeSlider-parent p {
+  font-weight: 600;
+  font-size: 18px;
+  margin: 0;
+  padding: 7px 60px;
+}
+
+/* .rfm-marquee{
+    margin-right: 120px;
+} */
+
+.MarqueeSlider-parent .gap-5 {
+  gap: 5rem !important;
+}
+
+/* tabs section */
+.TabsSection-top {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.TabsSection-top p {
+  margin: 0;
+}
+
+.TabsSection-right-sub1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  background: #002150;
+  padding: 4px 6px 4px 25px;
+  /* justify-content: center; */
+  color: #fff;
+}
+
+.TabsSection-right-sub1-pdf {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: fit-content;
+  /* background: #002150; */
+  /* padding: 4px 6px 4px 25px; */
+  justify-content: center;
+  color: #fff;
+}
+
+.TabsSection-left {
+  width: 90%;
+}
+
+.TabsSection-left p,
+.TabsSection-right p {
+  font-size: 17px;
+  color: #000;
+}
+
+.TabsSection-left,
+.TabsSection-right {
+  color: #002150;
+}
+
+.TabsSection-right-sub1 p {
+  margin: 0;
+}
+
+.TabsSection-right-sub1 img {
+  height: 30px;
+  width: 30px;
+  background: #fff;
+  padding: 4px;
+}
+
+.TabsSection-right-sub1-pdf img {
+  height: 300px;
+  width: 100%;
+  background: #fff;
+  padding: 4px;
+}
+
+.linediv {
+  width: 120px;
+  height: 2px;
+  background: #000;
+}
+
+.TabsSection-sub-parent {
+  width: 90%;
+  margin: auto;
+  padding: 50px 0px;
+}
+
+.TabsSection-right-sub1 p {
+  color: #fff;
+}
+
+.TabsSection-right-sub2 {
+  padding-top: 20px;
+}
+
+.TabsSection-left h1 {
+  padding: 20px 0px;
+}
+
+/* marquee slider  */
+
+.MarqueeSlider-below-parent {
+  background: #002150;
+}
+
+.MarqueeSlider-below-parent-sub {
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+  width: 90%;
+  margin: auto;
+  padding: 25px 0px;
+  align-items: center;
+}
+
+.MarqueeSlider-below-parent a {
+  text-decoration: none;
+  color: #bec4d0;
+  font-weight: 600;
+}
+
+.MarqueeSlider-below-parent p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.TabsSection-left-sub h5 {
+  color: #000;
+}
+
+.AssetsComponent-main-parent {
+  border-top: 3px solid #002150;
+}
+
+/* signature Highlights */
+
+.Highlights-sub-parent h1 {
+  color: #000;
+  padding-left: 70px;
+}
+
+.span-subtext {
+  color: #002150;
+}
+
+/* assets component tabs */
+.AssetsComponent-sub-parent {
+  width: 90%;
+  margin: auto;
+  /* padding-bottom: 40px; */
+  /* padding: 30px 0px 7px 0px; */
+}
+
+.AssetsComponent-sub-parent h1 {
+  color: #002150;
+}
+
+ul.Assets-tabs-parent {
+  display: flex;
+}
+
+ul.Assets-tabs-parent li {
+  list-style: none;
+  width: 110px;
+  border: 1px solid #002150;
+  padding: 6px;
+  text-align: center;
+}
+
+ul.Assets-tabs-parent li.active {
+  background: #002150;
+  color: #fff;
+}
+
+ul.Assets-tabs-parent li:first-child {
+  border-radius: 10px 0px 0px 0px;
+  border-right: none;
+}
+
+ul.Assets-tabs-parent li:nth-child(2) {
+  border-right: none;
+}
+
+img.Modal-inner-image {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+}
+
+.tab-content.Assets-tabs-content-parent {
+  width: 80%;
+  margin: auto;
+}
+
+.Assetstab1-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* leyouts component */
+
+.Layouts-sub-parent {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.Layouts-sub-parent h2 {
+  color: #002150;
+}
+
+.GalleyImages-parent {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  border-top: 3px solid #002150;
+}
+
+.LayoutMain-image {
+  height: 500px;
+  width: 100%;
+  margin: 35px auto 0px auto;
+  cursor: pointer;
+}
+
+.LayoutMain-image img {
+  height: 100%;
+  width: 100%;
+}
+
+.FloorPlans-image {
+  height: 400px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.FloorPlans-image img {
+  height: 100%;
+  width: 100%;
+}
+
+.FloorPlans-main-parent h2 {
+  padding: 35px 0px;
+}
+
+.Layouts-main-parent {
+  padding: 35px 0px 50px 0px;
+}
+
+/* Aminities section */
+
+.Amenities-sub-parent {
+  width: 80%;
+  margin: auto;
+  padding: 40px 0px;
+}
+
+.Amenities-image {
+  height: 40px;
+  width: 40px;
+}
+
+.Amenities-image img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.Amenities-sub-parent > .row {
+  justify-content: center;
+}
+
+.Aminities-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  border: 3px solid #002150;
+  border-radius: 8px;
+  margin: auto;
+  padding: 24px 8px;
+  margin-bottom: 20px;
+  transition: all 0.2s linear;
+  min-height: 151px;
+  transition: all 0.3s linear;
+}
+
+.Aminities-content:hover {
+  transform: scale(1.05);
+}
+
+/* .Aminities-content:hover {
+    background: #002150;
+}
+
+.Aminities-content:hover p {
+    color: #fff;
+}
+
+.Aminities-content:hover img {
+    filter: brightness(20);
+} */
+
+.Aminities-content p {
+  margin: 0;
+}
+
+/* location componenet */
+.Location-main-parent .AssetsComponent-sub-parent {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding-right: 80px;
+}
+
+.Location-sub-parent h2 {
+  padding: 10px 0px 30px 0px;
+  text-align: center;
+  color: #002150;
+}
+
+.Location-sub-parent {
+  width: 80%;
+  margin: auto;
+}
+
+.Location-map-parent {
+  margin: 40px 0px 20px 0px;
+}
+
+.Location-map-parent iframe {
+  width: 100%;
+  border: 3px solid #000;
+  border-radius: 10px;
+}
+
+/* faq section styles */
+
+.Investfaq-parent {
+  padding-bottom: 50px;
+}
+
+.faq-subparent {
+  padding: 40px 0;
+}
+.faq-homepage-subparent {
+  font-size: 18px !important;
+}
+
+.faq-subparent h2 {
+  font-size: 50px;
+  text-align: center;
+  color: #002150;
+}
+
+.Investfaq-parent .accordion-item {
+  width: 100%;
+  margin: 7px auto;
+  border-top: 2px solid #002150;
+  padding: 18px;
+  cursor: pointer;
+}
+
+.faq-subparent h2 span {
+  font-size: 38px;
+  color: #002150;
+  text-align: center;
+  position: relative;
+  top: -6px;
+}
+
+.Investfaq-parent .accordion-item-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Investfaq-parent .accordion-item-title p,
+.Investfaq-parent .accordion-item-title span {
+  color: #002150;
+  margin: 0;
+  font-size: 22px;
+}
+
+.Investfaq-parent .accordion-item-title span {
+  color: #fff;
+  background: #002150;
+  padding: 0px 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Location-main-parent,
+.Layouts-main-parent {
+  border-top: 3px solid #002150;
+  /* border-bottom: 3px solid #002150; */
+  padding: 25px 0px 20px 0px;
+}
+
+.Amenities-main-parent {
+  border-top: 3px solid #002150;
+  padding-top: 35px;
+}
+
+/* .TabsSection-main-parent {
+    border-bottom: 3px solid #002150;
+} */
+
+.AssetsComponent-main-parent {
+  padding: 30px 0px 10px 0px;
+}
+
+.Investfaq-parent .accordion-item-desc {
+  font-size: 16px;
+  padding-top: 10px;
+  color: #000;
+}
+
+.FaqSection-sub-parent {
+  width: 80%;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.FaqSection-sub-parent .row {
+  align-items: center;
+}
+
+.Faq-left h1 {
+  font-size: 54px;
+  color: #002150;
+}
+
+.Faq-left {
+  width: 80%;
+}
+
+.Layouts-main-parent
+  :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal
+  .ant-modal-content {
+  padding: 35px !important;
+}
+
+/* form styles starts here */
+
+/* form starts here */
+
+.ContactForm-icon {
+  height: 45px;
+  width: 45px;
+  background: #fff;
+  border-radius: 50%;
+  padding: 11px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Edifice-map {
+  padding: 30px 5px 50px 5px;
+}
+
+.Edifice-map iframe {
+  border: 0;
+  width: 100%;
+  height: 450px;
+  border-radius: 40px;
+  filter: brightness(0.3);
+  transition: all 0.1s linear;
+}
+
+.EdificeHomes-map iframe:hover {
+  filter: brightness(1);
+}
+
+.ContactForm-icon img {
+  height: 100%;
+  width: 45px;
+  object-fit: contain;
+}
+
+.ContactForm-icon-parent {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  padding: 15px;
+}
+
+.ContactForm-icon-parent p {
+  margin: 0;
+  color: #fff;
+  font-size: 18px;
+}
+
+.ContactForm-icon-parent a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.ContactForm-sub-left {
+  background: #002150;
+  padding: 35px 10px;
+  border-radius: 30px;
+}
+
+.contactform-SocialLinks {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.ContactForm-sub-right textarea {
+  resize: vertical;
+  width: 100%;
+  height: 100px;
+  border: none;
+  border-bottom: 1px solid #000;
+  margin-top: 50px;
+  outline: none;
+}
+
+.ContactForm-sub-right {
+  padding: 15px;
+}
+
+.ContactForm-sub-right input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #000;
+  padding: 15px 0px 6px 0px;
+  margin-top: 20px;
+  outline: none;
+}
+
+.ContactForm-sub-right button {
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  background: #002150;
+  color: #fff;
+  float: right;
+  margin-top: 15px;
+}
+
+.Faq-right .Investfaq-parent {
+  background: none;
+}
+
+.Faq-right .Investfaq-parent .accordion-item-title p,
+.Faq-right .Investfaq-parent .accordion-item-desc {
+  color: #002150 !important;
+}
+
+.Faq-right .Investfaq-parent .accordion-item-title p {
+  font-size: 21px;
+}
+.GalleyImages-parent h1 {
+  padding-bottom: 15px;
+}
+.Faq-right .Investfaq-parent .accordion-item-desc {
+  font-size: 16px;
+  color: #000;
+}
+
+.Faq-right .Investfaq-parent .accordion-item {
+  width: 80%;
+  margin: 4px auto;
+  border: 2px solid #fff;
+  /* padding: 18px; */
+  border-bottom: 1px solid #002150 !important;
+}
+.galleryimages-swiper-image {
+  height: 450px;
+  width: 100%;
+}
+.galleryimages-swiper-image img {
+  height: 100%;
+  width: 100%;
+}
+@media screen and (max-width: 991px) {
+  .PropertyDetails-main-parent .navbar-toggler-icon {
+    filter: brightness(0);
+  }
+
+  .PropertyDetails-main-parent .HomeNavbar-sub-parent {
+    padding: 10px 0px;
+  }
+
+  .PropertyDetails-main-parent
+    .HomeNavbar-mainparent
+    .navbar-expand-lg
+    .navbar-nav {
+    gap: 12px;
+    border: none;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .galleryimages-swiper-image {
+    height: 260px;
+    width: 100%;
+  }
+  .MarqueeSlider-below-sub {
+    width: 25%;
+    padding: 10px 5px;
+  }
+  .MarqueeSlider-below-parent-sub {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .Highlights-sub-parent {
+    padding-top: 0 !important;
+  }
+
+  .MarqueeSlider-below-parent p {
+    margin: 0;
+    font-size: 14px;
+    margin-bottom: -10px;
+  }
+
+  .TabsSection-left {
+    width: 100%;
+  }
+
+  .TabsSection-left h1 {
+    padding: 20px 0px;
+    font-size: 22px;
+  }
+
+  .TabsSection-left p,
+  .TabsSection-right p {
+    font-size: 16px;
+    text-align: justify;
+  }
+
+  .TabsSection-left-sub {
+    text-align: left;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 10px;
+  }
+
+  .TabsSection-left-sub h4 {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .TabsSection-right-sub1-pdf img {
+    height: 240px;
+  }
+
+  .TabsSection-left .col-md-3 {
+    padding: 5px;
+    width: 50%;
+    text-align: left;
+  }
+
+  .Banner-main-image {
+    height: 340px;
+    width: 100%;
+  }
+
+  .Banner-badge-absolute {
+    height: 70px;
+    width: 70px;
+    left: 25px;
+    bottom: -12px;
+    margin-left: 0;
+  }
+
+  .MarqueeSlider-parent p {
+    font-size: 14px;
+    padding: 7px 10px;
+  }
+
+  ul.Assets-tabs-parent {
+    justify-content: center;
+    padding: 0;
+    margin-top: 10px;
+  }
+
+  ul.Assets-tabs-parent li {
+    font-size: 12px;
+  }
+
+  .TabsSection-sub-parent {
+    padding: 20px 0px 0 0;
+  }
+
+  .AssetsComponent-main-parent {
+    padding: 10px 0px 10px 0px;
+  }
+
+  .Amenities-sub-parent {
+    width: 100%;
+    padding: 0;
+    padding: 0px 0px 15px 0px;
+  }
+
+  .Assetstab1-parent {
+    gap: 15px;
+  }
+
+  .Location-main-parent .AssetsComponent-sub-parent {
+    flex-direction: column;
+    padding-right: 0;
+  }
+
+  .Aminities-content {
+    width: 100%;
+    margin-bottom: 0px;
+    padding: 15px 0px;
+    min-height: 110px;
+    border: 2px solid #002150;
+  }
+
+  .Amenities-image {
+    height: 32px;
+    width: 30px;
+  }
+
+  .Aminities-content p {
+    margin: 0;
+    font-size: 12px;
+  }
+
+  .Amenities-sub-parent .col-md-2 {
+    width: 33% !important;
+    padding: 3px;
+    margin: auto;
+  }
+
+  .Amenities-main-parent {
+    padding-top: 15px;
+  }
+
+  .AssetsComponent-sub-parent h1 {
+    margin-bottom: 20px;
+  }
+
+  .Location-sub-parent {
+    width: 95%;
+  }
+
+  .GalleyImages-parent {
+    padding-top: 20px;
+  }
+
+  .Layouts-sub-parent .ant-modal-body {
+    height: 300px !important;
+  }
+
+  .Layouts-sub-parent
+    :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal
+    .ant-modal-content {
+    height: 260px;
+  }
+
+  .Layouts-sub-parent .ant-modal-body img {
+    height: 260px !important;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .LayoutMain-image img {
+    object-fit: cover;
+  }
+
+  .FloorPlans-main-parent h2 {
+    padding: 10px 0px;
+  }
+
+  .Amenities-sub-parent > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .Location-map-parent {
+    margin: 20px 0px 20px 0px;
+  }
+
+  .Location-map-parent iframe {
+    height: 320px;
+    border: 2px solid #002150;
+    border-radius: 5px;
+  }
+
+  .Location-below-section-sub ul {
+    margin-bottom: 0;
+  }
+
+  .Location-below-section-sub li {
+    font-size: 16px;
+    padding-bottom: 12px;
+  }
+  strong {
+    font-weight: 400 !important;
+  }
+
+  .Faq-left {
+    width: 100%;
+  }
+
+  .FaqSection-sub-parent {
+    width: 100%;
+    padding-top: 15px;
+  }
+
+  .Investfaq-parent {
+    padding-bottom: 10px;
+  }
+
+  .Faq-left h1 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .Location-sub-parent h2 {
+    padding: 0px 0px 10px 0px;
+  }
+
+  .Location-main-parent,
+  .Layouts-main-parent {
+    border-top: 2px solid #002150;
+    border-bottom: none;
+    padding: 10px 0px 0px 0px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item {
+    width: 100%;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-title p,
+  .Faq-right .Investfaq-parent .accordion-item-title span {
+    font-size: 16px;
+    padding: 0px 12px 0px 12px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-desc {
+    font-size: 15px;
+    padding-left: 12px;
+  }
+
+  .Faq-right .Investfaq-parent {
+    background: none;
+    padding-bottom: 0;
+  }
+
+  img.Modal-inner-image {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+  }
+
+  .LayoutMOdalParent {
+    width: 80% !important;
+  }
+
+  .FloorPlans-image {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  .layout-images-modal .ant-modal.css-dev-only-do-not-override-1uq9j6g {
+    width: 300px !important;
+  }
+  :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal .ant-modal-content {
+    padding: 0;
+  }
+
+  .layout-modal-dispaly0n-modal .ant-modal {
+    width: 250px !important;
+  }
+
+  .AssetsComponent-sub-parent
+    :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal-root
+    .ant-modal {
+    width: 100% !important;
+  }
+
+  .Layouts-sub-parent {
+    padding: 0;
+  }
+
+  .Location-below-section > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .FaqSection-sub-parent > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .ContactForm-sub-right textarea {
+    margin-top: 15px;
+    height: 50px;
+  }
+  .ContactForm-sub-right {
+    padding-top: 0;
+  }
+  .ContactForm-sub-right input {
+    margin-top: 10px;
+    outline: none;
+  }
+
+  .LayoutMain-image {
+    height: 330px;
+    margin: 15px auto 0px auto;
+  }
+
+  .Banner-badge-absolute img {
+    object-fit: contain !important;
+  }
+
+  .Banner-main-image img {
+    object-fit: cover;
+  }
+  .TabsSection-left .col-3 {
+    width: 50% !important;
+    padding: 0;
+  }
+  .TabsSection-right {
+    padding-top: 10px;
+  }
+  .FloorPlans-image img {
+    object-fit: cover;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  .TabsSection-right {
+    padding-top: 15px;
+  }
+  .MarqueeSlider-below-parent-sub {
+    flex-wrap: wrap;
+    gap: 25px;
+    justify-content: center;
+  }
+
+  .MarqueeSlider-below-parent p {
+    margin: 0;
+    font-size: 14px;
+    margin-bottom: -10px;
+  }
+
+  .TabsSection-left {
+    width: 100%;
+  }
+
+  .TabsSection-left h1 {
+    padding: 20px 0px;
+    font-size: 22px;
+  }
+
+  .TabsSection-left p,
+  .TabsSection-right p {
+    font-size: 14px;
+    text-align: justify;
+  }
+
+  .TabsSection-left-sub {
+    text-align: center;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 10px;
+  }
+
+  .TabsSection-left-sub h4 {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .TabsSection-left .col-md-3 {
+    padding: 5px;
+  }
+
+  .Banner-main-image {
+    height: 340px;
+    width: 100%;
+  }
+
+  .Banner-badge-absolute {
+    height: 70px;
+    width: 70px;
+    left: 25px;
+    bottom: -12px;
+    margin-left: 0;
+  }
+
+  .MarqueeSlider-parent p {
+    font-size: 14px;
+    padding: 7px 10px;
+  }
+
+  ul.Assets-tabs-parent {
+    justify-content: center;
+    padding: 0;
+    margin-top: 10px;
+  }
+
+  ul.Assets-tabs-parent li {
+    font-size: 12px;
+  }
+
+  .TabsSection-sub-parent {
+    padding: 20px 0px 0 0;
+  }
+
+  .AssetsComponent-main-parent {
+    padding: 10px 0px 10px 0px;
+  }
+
+  .Amenities-sub-parent {
+    width: 80%;
+    padding: 0;
+    padding: 15px 0px;
+  }
+
+  .Assetstab1-parent {
+    gap: 15px;
+  }
+
+  .Location-main-parent .AssetsComponent-sub-parent {
+    flex-direction: column;
+    padding-right: 0;
+    gap: 15px;
+  }
+
+  .Aminities-content {
+    width: 100%;
+    margin-bottom: 0px;
+    padding: 25px 0px;
+  }
+
+  .Amenities-image {
+    height: 32px;
+    width: 30px;
+  }
+
+  .Aminities-content p {
+    margin: 0;
+    font-size: 11px;
+  }
+
+  .Amenities-sub-parent .col-md-2 {
+    width: 33% !important;
+    padding: 3px;
+    margin: auto;
+  }
+
+  .Amenities-main-parent {
+    padding-top: 15px;
+  }
+
+  .AssetsComponent-sub-parent h1 {
+    margin-bottom: 20px;
+  }
+  .galleryimages-swiper-image {
+    height: 260px;
+  }
+
+  .Location-sub-parent {
+    width: 95%;
+  }
+
+  .Layouts-sub-parent .ant-modal-body {
+    height: 300px !important;
+  }
+
+  .Layouts-sub-parent
+    :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal
+    .ant-modal-content {
+    height: 260px;
+  }
+
+  .Layouts-sub-parent .ant-modal-body img {
+    height: 260px !important;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .FloorPlans-main-parent h2 {
+    padding: 10px 0px;
+  }
+
+  .Amenities-sub-parent > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .Location-map-parent {
+    margin: 20px 0px 20px 0px;
+  }
+
+  .Location-map-parent iframe {
+    height: 320px;
+    border: 2px solid #002150;
+    border-radius: 5px;
+  }
+
+  .Location-below-section-sub li {
+    font-size: 14px;
+  }
+
+  .Faq-left {
+    width: 100%;
+  }
+
+  .FaqSection-sub-parent {
+    width: 100%;
+    padding-top: 15px;
+  }
+
+  .Investfaq-parent {
+    padding-bottom: 10px;
+  }
+
+  .Faq-left h1 {
+    font-size: 22px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .Location-sub-parent h2 {
+    padding: 0px 0px 10px 0px;
+  }
+
+  .Location-main-parent,
+  .Layouts-main-parent {
+    border-top: 1px solid #002150;
+    border-bottom: 3px solid #002150;
+    padding: 10px 0px 15px 0px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item {
+    width: 100%;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-title p,
+  .Faq-right .Investfaq-parent .accordion-item-title span {
+    font-size: 16px;
+    padding: 0px 12px 0px 12px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-desc {
+    font-size: 12px;
+    padding-left: 12px;
+  }
+
+  .Faq-right .Investfaq-parent {
+    background: none;
+    padding-bottom: 0;
+  }
+
+  img.Modal-inner-image {
+    width: 100%;
+    height: 250px;
+  }
+
+  .FloorPlans-image {
+    height: 230px;
+    margin-bottom: 15px;
+  }
+
+  .layout-modal-dispaly0n-modal .ant-modal {
+    width: 250px !important;
+  }
+
+  .AssetsComponent-sub-parent
+    :where(.css-dev-only-do-not-override-1uq9j6g).ant-modal-root
+    .ant-modal {
+    width: 100% !important;
+  }
+
+  .Layouts-sub-parent {
+    width: 100%;
+  }
+
+  .Layouts-sub-parent {
+    padding-bottom: 0;
+  }
+
+  .Location-below-section > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .FaqSection-sub-parent > .row {
+    padding: 0;
+    margin: 0;
+  }
+
+  .ContactForm-sub-right textarea {
+    margin-top: 15px;
+    height: 90px;
+  }
+
+  .ContactForm-sub-right input {
+    margin-top: 10px;
+    outline: none;
+  }
+
+  .LayoutMain-image {
+    height: 330px;
+    margin: 15px auto 0px auto;
+  }
+  .TabsSection-left-sub h4 {
+    font-size: 18px;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .galleryimages-swiper-image {
+    height: 250px;
+  }
+  .Amenities-sub-parent {
+    width: 90%;
+    padding: 0;
+    padding-bottom: 10px;
+  }
+
+  .Amenities-main-parent {
+    border-top: 3px solid #002150;
+    padding-top: 15px;
+  }
+
+  .Aminities-content {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  .Amenities-sub-parent .col-md-2 {
+    padding: 7px;
+  }
+
+  .Aminities-content p {
+    margin: 0;
+    font-size: 12px;
+  }
+
+  .Amenities-image {
+    height: 30px;
+    width: 30px;
+  }
+
+  .GalleyImages-parent {
+    padding-top: 20px;
+  }
+  .Location-map-parent iframe {
+    width: 100%;
+    border: 2px solid #000;
+    border-radius: 10px;
+    height: 340px;
+  }
+
+  .FaqSection-sub-parent,
+  .Location-sub-parent {
+    width: 90%;
+  }
+
+  .Location-below-section-sub li {
+    font-size: 13px;
+  }
+
+  .Faq-left h1 {
+    font-size: 40px;
+  }
+
+  .FloorPlans-image {
+    height: 250px;
+  }
+
+  img.Modal-inner-image {
+    width: 100%;
+    height: 450px;
+  }
+
+  .MarqueeSlider-below-parent p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .MarqueeSlider-below-parent-sub {
+    width: 95%;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 15px;
+    margin-bottom: 18px;
+  }
+
+  .TabsSection-left-sub h4 {
+    font-size: 18px;
+  }
+
+  .TabsSection-left p,
+  .TabsSection-right p {
+    font-size: 14px;
+  }
+
+  .Banner-main-image {
+    height: 400px;
+  }
+
+  .Banner-badge-absolute {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    left: 100px;
+    bottom: -12px;
+    margin-left: 0;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-title p {
+    font-size: 16px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-desc {
+    font-size: 13px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item {
+    width: 90%;
+  }
+
+  img.Modal-inner-image {
+    width: 100%;
+    height: 450px;
+  }
+  .AssetsComponent-sub-parent h1 {
+    padding-bottom: 20px;
+  }
+  .swiper-horizontal {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .Aminities-content p {
+    margin: 0;
+    font-size: 14px;
+  }
+  img.Modal-inner-image {
+    width: 100%;
+    height: 500px;
+  }
+
+  .Banner-main-image {
+    height: 470px;
+  }
+
+  .TabsSection-left p,
+  .TabsSection-right p {
+    font-size: 15px;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 15px;
+  }
+
+  .TabsSection-left-sub h4 {
+    font-size: 18px;
+  }
+
+  .FloorPlans-image {
+    height: 300px;
+  }
+
+  .Amenities-sub-parent {
+    width: 90%;
+    padding-top: 5px;
+  }
+
+  .GalleyImages-parent .swiper-wrapper {
+    padding-top: 0;
+  }
+
+  .GalleyImages-parent .swiper-container {
+    padding-top: 0;
+  }
+
+  .Aminities-content {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  .Amenities-sub-parent .col-md-2 {
+    padding: 8px;
+  }
+
+  .Location-below-section-sub li {
+    font-size: 14px;
+  }
+
+  .FaqSection-sub-parent {
+    width: 90%;
+    padding-top: 15px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-title p {
+    font-size: 18px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-desc {
+    font-size: 15px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item {
+    width: 90%;
+  }
+
+  .Faq-right .Investfaq-parent {
+    padding-bottom: 20px;
+  }
+
+  .Location-map-parent iframe {
+    height: 350px;
+  }
+
+  img.Modal-inner-image {
+    object-fit: contain;
+  }
+  .AssetsComponent-sub-parent h1 {
+    padding-bottom: 30px;
+  }
+  .swiper-horizontal {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+  .Modal-inner-image {
+    width: 100%;
+    object-fit: contain;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-title p {
+    font-size: 18px;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item {
+    width: 100%;
+  }
+
+  .Faq-right .Investfaq-parent .accordion-item-desc {
+    font-size: 14px;
+  }
+
+  .Aminities-content p {
+    margin: 0;
+    font-size: 13px;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 15px;
+  }
+
+  .TabsSection-left-sub h4 {
+    font-size: 20px;
+  }
+}
+
+/* .Swiper-mobile {
+    display: none;
+} */
+
+@media screen and (max-width: 1199px) {
+  .gallery-swiper-container {
+    display: none;
+  }
+  .Swiper-mobile {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .TabsSection-top p {
+    font-size: 22px;
+  }
+
+  .Swiper-mobile {
+    display: block;
+  }
+
+  .Swiper-mobile .swiper-pagination {
+    bottom: 22px;
+  }
+
+  .AssetsComponent-sub-parent {
+    padding-bottom: 0 !important;
+  }
+
+  .TabsSection-left-sub h5 {
+    font-size: 14px;
+  }
+
+  .TabsSection-left .row {
+    width: 100%;
+    margin: auto;
+  }
+
+  .particular-project-Logo {
+    width: 40%;
+  }
+}
+
+.TabsSection-left-sub h4 {
+  font-weight: 600;
+}
+
+.TabsSection-right-sub2 h3 {
+  font-weight: 600;
+}
+
+.particular-project-Logo {
+  width: 40%;
+}

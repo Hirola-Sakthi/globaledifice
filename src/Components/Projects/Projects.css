@@ -1,0 +1,786 @@
+/* banner section starts here */
+.Projects-mainpage .navbar-expand-lg .navbar-nav {
+    gap: 12px;
+    border: 1px solid #000;
+}
+.WhyUs-content-sub-parent-sub p{
+    font-size: 20px;
+    font-weight: 600;
+    color: #BC8D09;
+    text-align: center;
+}
+.ProjectsBanner-bg{
+    height: 315px;
+    width: 100%;
+    background: #002150;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.ProjectsBanner-content {
+    height: 100px;
+    width: fit-content;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    border-radius: 20px 20px 0px 0px;
+}
+.ProjectsBanner-content h1{
+    color: #292F36;
+    font-size: 48px;
+}
+.ProjectsBanner-Banner-text{
+    height: 370px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ProjectsBanner-Banner-text p {
+    width: 30%;
+    font-size: 22px;
+}
+/* OnGoing Projects */
+.OngoingProjects-MainContent .swiper{
+    padding-bottom: 80px;
+}
+.OngoingProjects-title h1{
+    font-size: 54px;
+}
+.OnGoingProjects-sub-parent{
+    width: 90%;
+    margin: auto;
+}
+.OngoingProjects-title{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+.Emptydiv{
+    width: 270px;
+    background: #0E1B1B;
+    height: 2px;
+}
+.OnGoingProjects-desc {
+    width: 93%;
+    margin: 0 0 0 auto;
+    padding: 20px;
+}
+.OngoingProjects-MainContent-image {
+    height: 360px;
+    width: 600px;
+    position: relative;
+}
+.OngoingProjects-MainContent-image button{
+    position: absolute;
+}
+.OngoingProjects-MainContent-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.OngoingProjects-image-div {
+    display: flex;
+    gap: 22px;
+    justify-content: flex-end;
+    position: relative;
+}
+.OngoingProjects-image-div h1 {
+    font-size: 86px;
+    color: #e4e4e4;
+    margin: 7px 20px 0 0px;
+}
+.OngoingProjects-absolute-image {
+    height: 300px;
+    width: 400px;
+    position: absolute;
+    left: 0;
+    bottom: -75px;
+}
+.OngoingProjects-absolute-image img{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.OngoingProjects-absolute-image button{
+    position: absolute;
+    height: 40px;
+    width: 160px;
+    border: none;
+    background: #BC8D09;
+    text-decoration: underline;
+    bottom: 0;
+    right: -190px;
+    color: #fff;
+}
+.UpcomingProjects-main-parent {
+    padding: 20px 0px;
+}
+.OngoingProjects-MainContent-right {
+    width: 90%;
+    margin: auto;
+}
+/* .OngoingProjects-MainContent-right p {
+    padding: 50px 0px;
+} */
+.OngoingProjects-MainContent-right h2{
+    font-size: 40px;
+    color: #BC8D09;
+}
+.Previous-Next-buttons .emptyline{
+    width: 60px;
+    height: 1px;
+    background-color: #0E1B1B;
+}
+.Previous-Next-buttons-sub p{
+    padding:0 ;
+    margin:0 ;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.Previous-Next-buttons-sub {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: flex-end;
+    padding-top: 6px;
+    cursor: pointer;
+}
+.sub-div-2{
+    padding-right: 50px;
+}
+.Previous-Next-buttons {
+    position: relative;
+    top: -80px;
+    z-index: 2;
+    width: fit-content;
+    margin: 0 0 0 auto;
+}
+.OngoingProjects-MainContent {
+    padding: 30px 0px 0px;
+}
+/* .OngoingProjects-MainContent {
+    padding: 30px 0px;
+} */
+
+/* why us section */
+.WhyUs-sub-parent{
+    width: 90%;
+    margin: auto;
+    position: relative;
+}
+.Whyus-absoluteSection {
+    background: #BC8D09;
+    width: 330px;
+    padding: 40px 30px;
+    position: absolute;
+    bottom: -120px;
+    left: 62px;
+}
+.Whyus-absoluteSection p{
+    margin: 0;
+}
+.WhyUs-main-parent {
+    padding: 0px 0px 140px 0px;
+}
+.PreviousProjects-main-parent {
+    padding: 40px 0px 20px 0px;
+}
+.WhyUs-content-sub-parent-sub {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    /* text-align: center; */
+    background: #fff;
+    color: #002150;
+    width: 250px;
+    padding: 15px 15px 10px 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.WhyUs-content-sub-parent {
+    display: flex;
+    gap: 35px;
+    position: relative;
+    bottom: -100px;
+}
+.WhyUs-content-image{
+height: 50px;
+width: 50px;
+}
+.WhyUs-content-image img{
+    height: 100%;
+    width: 100%;
+}
+.WhyUs-content {
+    width: 84%;
+    margin: 0 0 0 auto;
+    background: #002150;
+    color: #fff;
+    padding: 30px;
+}
+
+.WhyUs-content-sub{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.WhyUs-line{
+    width: 250px;
+    height: 2px;
+    background: #fff;
+}
+.Whyus-desc {
+    width: 60%;
+    margin: auto;
+}
+p.Whyus-desc-content {
+    margin-bottom: -50px;
+}
+
+/* maedia queries starts here */
+@media screen and (max-width:991px){
+    .Projects-mainpage .navbar-expand-lg .navbar-nav {
+        border:none;
+    }
+    .Projects-mainpage .navbar-toggler-icon {
+        filter: brightness(0);
+    }
+    .Projects-mainpage .HomeNavbar-mainparent li.nav-item.active {
+        border: none;
+    }
+    .Projects-mainpage nav.navbar.navbar-expand-lg {
+        padding: 0;
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .WhyEdifice-main-page .navbar-expand-lg .navbar-nav {
+        flex-direction: column;
+    }
+    
+}
+
+@media screen and (max-width:575px){
+    .WhyUs-main-parent {
+        margin-top: 20px;
+    }
+    .OngoingProjects-absolute-image button {
+        position: absolute;
+        left: 0;
+        width: 100px;
+        font-size: 16px;
+        height: 32px;
+    }
+    .OnGoingProjects-desc {
+        width: 100%;
+        padding: 10px;
+        text-align: justify;
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .OngoingProjects-MainContent {
+        padding: 0px 0px;
+    }
+    .OngoingProjects-image-div h1 {
+        font-size: 40px;
+        position: absolute;
+        top: 10px;
+    }
+    .OnGoingProjects-descp{
+        margin: 0;
+    }
+    .OngoingProjects-MainContent-image {
+        width: 100%;
+    }
+    .ProjectsBanner-Banner-text p {
+        width: 80%;
+        text-align: center;
+        font-size: 22px;
+    }
+    .OngoingProjects-title h1 {
+        font-size: 22px;
+    }
+    .OngoingProjects-MainContent-image, .OngoingProjects-absolute-image {
+        width: 100%;
+        position: relative;
+        bottom: 0;
+    }
+    .OngoingProjects-absolute-image{
+        height: 155px;
+        width: 55%;
+        position: absolute;
+        bottom: -45px;
+    }
+    .Emptydiv {
+        width: 70px;}
+    .WhyUs-content-sub-parent {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .WhyUs-content-sub-parent-sub p {
+        font-size: 16px;
+    }
+    .OngoingProjects-image-div{
+        flex-direction: column;
+        gap: 10px;
+
+    }
+    .Whyus-absoluteSection p {
+        margin: 0;
+        font-size: 16px;
+        /* text-align: justify; */
+    }
+    .PreviousProjects-main-parent {
+        padding: 10px 0px;
+    }
+    .OngoingProjects-MainContent-image{
+        width: 82%;
+        height: 220px;
+        margin-left: auto;
+    }
+    .OngoingProjects-MainContent-image{
+        object-fit: cover;
+    }
+    .OngoingProjects-MainContent-right h2 {
+        font-size: 26px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .OngoingProjects-MainContent-right p {
+        padding: 5px 0px;
+        margin: 0;
+        font-size: 14px;
+        text-align: center;
+    }
+    .UpcomingProjects-main-parent {
+        padding: 20px 0px 0px;
+    }
+    .OnGoingProjects-desc p{
+        font-size: 16px;
+        margin: 0;
+    }
+    p.Whyus-desc-content {
+        margin-bottom: -70px;
+        font-size: 16px;
+    }
+    .WhyUs-content-sub {
+        padding-bottom: 15px;
+    }
+    .WhyUs-content-sub h1 {
+        text-align: center;
+    }
+    .WhyUs-content-sub-parent-sub{
+        width: 100%;
+    }
+    .OngoingProjects-MainContent-right {
+        width: 90%;
+        padding-top: 60px;
+    }
+    .Previous-Next-buttons-sub {
+        gap: 15px;
+        padding-top: 0;
+        flex-direction: row-reverse;
+    }
+    .Whyus-absoluteSection {
+        background: #BC8D09;
+        width: 100%;
+        padding: 40px 30px;
+        position: relative;
+        bottom: -120px;
+        left: 0;
+    }
+    .sub-div-2 {
+        padding-right: 0px;
+    }
+    .WhyUs-content {
+        width: 100%;
+        padding: 10px;
+    }
+    .Whyus-desc {
+        width: 95%;
+        /* text-align: justify; */
+        margin: auto;
+    }
+    .WhyUs-line {
+        width: 100px;
+        display: none;
+    }
+    .Previous-Next-buttons {
+        padding-top: 0px;
+        display: flex;
+        justify-content: center;
+        margin-bottom: -70px;
+        width: 100%;
+        flex-direction: row-reverse;
+        gap: 25px;
+    }
+    
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    .OngoingProjects-absolute-image {
+        height: 250px;
+        width: 300px;
+    }
+    .OngoingProjects-MainContent-image {
+        height: 280px;
+        width: 80%;
+        position: relative;
+    }
+    .OngoingProjects-image-div h1 {
+        font-size: 50px; 
+        color: #e4e4e4;
+        margin: 7px 0px 0 0px;
+    }
+    .Whyus-desc {
+        width: 100%;
+    }
+    p.Whyus-desc-content {
+        margin-bottom: 35px;
+    }
+    .WhyUs-content-sub-parent-sub p {
+        font-size: 16px;
+    }
+    .WhyUs-content-sub-parent {
+        gap: 15px;
+        bottom: 0;
+    }
+    .Whyus-absoluteSection {
+        background: #BC8D09;
+        width: 100%;
+        padding: 40px 30px;
+        position: relative;
+        bottom: -20px;
+        left: 0;
+    }
+    .WhyUs-main-parent {
+        padding: 30px 0px 10px 0px;
+    }
+    .OngoingProjects-MainContent-right {
+        width: 90%;
+        margin: auto;
+        padding-top: 100px;
+    }
+    .OngoingProjects-MainContent-right h2 {
+        margin-bottom: 20px;
+    }
+    .OnGoingProjects-main-parent {
+        margin-top: 20px;
+    }
+    .WhyUs-content {
+        width: 100%;
+    }    
+    .OngoingProjects-title h1 {
+        font-size: 34px;
+    }
+    .Emptydiv {
+        width: 200px;
+    }
+    .OngoingProjects-title{
+        justify-content: center;
+    }
+    .ProjectsBanner-Banner-text p {
+        width: 60%;
+        text-align: center;
+        font-size: 22px;
+    }
+    .OngoingProjects-MainContent-right p {
+        padding: 0px 0px;
+    }
+    .Previous-Next-buttons {
+        padding-top: 0;
+        margin-bottom: -80px;
+    }
+    .UpcomingProjects-main-parent {
+        padding: 0px 0px;
+    }
+    .OngoingProjects-MainContent {
+        padding: 0px 0px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:991px){
+    .OngoingProjects-title h1 {
+        font-size: 32px;
+    }
+    .Emptydiv {
+        width: 125px;
+    }
+    .OngoingProjects-MainContent-right {
+        width: 90%;
+        margin: auto;
+    }
+    .OngoingProjects-MainContent-right h2 {
+        font-size: 28px;
+    }
+    .OngoingProjects-image-div h1 {
+        font-size: 50px;
+        margin: 7px 0px 0 0px;
+    }
+    .OngoingProjects-MainContent-image {
+        height: 250px;
+        width: 80%;
+    }
+    .OngoingProjects-absolute-image {
+        height: 220px;
+        width: 60%;
+        position: absolute;
+    }
+    .OngoingProjects-absolute-image button {
+        height: 40px;
+        width: 130px;
+        bottom: 0;
+        right: -160px;
+        font-size: 16px;
+    }
+    .ProjectsBanner-Banner-text p {
+        width: 45%;
+        text-align: center;
+    }
+    .Previous-Next-buttons {
+        padding-top: 0;
+        margin-bottom: -30px;
+    }
+    .OngoingProjects-MainContent-right p {
+        padding: 25px 0px 0px 0px;
+        font-size: 15px;
+    }
+    .Previous-Next-buttons-sub p{
+        padding: 0;
+    }
+    .Whyus-desc {
+        width: 100%;
+    }
+    p.Whyus-desc-content {
+        margin-bottom: 35px;
+    }
+    .WhyUs-content-sub-parent-sub p {
+        font-size: 16px;
+    }
+    .WhyUs-content-sub-parent {
+        gap: 30px;
+        bottom: 0;
+    }
+    .UpcomingProjects-main-parent {
+        padding: 0px 0px;
+    }
+    .Whyus-absoluteSection {
+        background: #BC8D09;
+        width: 100%;
+        padding: 40px 30px;
+        position: relative;
+        bottom: -20px;
+        left: 0;
+    }
+    .WhyUs-main-parent {
+        padding: 30px 0px 10px 0px;
+    }
+    .WhyUs-content {
+        width: 100%;
+    }
+    .Projects-mainpage .ProjectsBanner-Banner-text {
+        height: 270px;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1199px){
+    .Emptydiv {
+        width: 160px;
+    }
+    .OngoingProjects-title h1 {
+        font-size: 38px;
+    }
+    .OngoingProjects-image-div h1 {
+        font-size: 64px;
+        color: #e4e4e4;
+        margin: 7px 0px 0 0px;
+    }
+    .Whyus-absoluteSection {
+        width: 300px;
+        padding: 25px 15px;
+        bottom: -120px;
+        left: 0;
+    }
+    .ProjectsBanner-Banner-text {
+        height: 300px;
+    }
+    .Whyus-desc {
+        width: 75%;
+        margin: 0 0 0 auto;
+    }
+    .WhyUs-content-sub-parent-sub p {
+        font-size: 16px;
+    }
+    .OngoingProjects-MainContent-image {
+        height: 300px;
+        width: 80%;
+        position: relative;
+    }
+    .OngoingProjects-absolute-image {
+        height: 260px;
+        width: 350px;
+    }
+    .OngoingProjects-MainContent-right {
+        width: 90%;
+    }
+    .OngoingProjects-MainContent-right h2 {
+        font-size: 32px;
+    }
+    .OngoingProjects-MainContent-right p {
+        padding: 15px 0px 0px 0px;
+    }
+    .Previous-Next-buttons-sub p{
+        padding: 0;
+    }
+    
+
+}
+@media screen and (min-width:1200px) and (max-width:1300px){
+    .Whyus-absoluteSection{
+        left: 0;
+    }
+    .WhyUs-content-sub-parent-sub p {
+        font-size: 16px;
+    }
+    .OngoingProjects-image-div h1 {
+        font-size: 80px;
+        margin: 7px 0px 0 0px;
+    }
+    .OngoingProjects-MainContent-image {
+        height: 360px;
+        width: 80%;
+    }
+    .Previous-Next-buttons {
+        padding-top: 40px;
+    }
+    .Emptydiv {
+        width: 180px;
+    }
+    .OngoingProjects-title h1 {
+        font-size: 48px;
+    }
+}
+@media screen and (min-width:1500px){
+    .OnGoingProjects-main-parent,.WhyUs-main-parent{
+        max-width:1500px;
+        margin: auto;
+    }
+}
+
+.specs {
+    padding-bottom: 30px;
+    /* text-align: center; */
+}
+
+.specs p {
+    margin-bottom: 2px;
+    font-weight: 600;
+}
+
+.OnGoingProjects-main-parent {
+    padding-top: 60px;
+}
+
+p.specification-text {
+    font-size: 24px;
+    color: #BC8D09;
+}
+
+.OngoingProjects-MainContent-right h3 {
+    padding-bottom: 20px;
+    font-size: 40px;
+    color: #BC8D09;
+    font-weight: 600;
+}
+
+/* Integrated Tabs in Banner - Matching your design */
+.projects-integrated-tabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+  background: white;
+  border-radius: 25px;
+  padding: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  max-width: fit-content;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.integrated-tab-button {
+  background: transparent;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 20px;
+  white-space: nowrap;
+  position: relative;
+}
+
+.integrated-tab-button:hover {
+  color: #002150;
+  background: rgba(0, 33, 80, 0.05);
+}
+
+.integrated-tab-button.active {
+  background: #002150;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0, 33, 80, 0.3);
+}
+
+.integrated-tab-button.active:hover {
+  background: #001a40;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .projects-integrated-tabs {
+    flex-direction: column;
+    gap: 8px;
+    padding: 12px;
+    width: 90%;
+    max-width: 300px;
+    margin-top: 20px;
+  }
+  
+  .integrated-tab-button {
+    width: 100%;
+    text-align: center;
+    padding: 12px 16px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .projects-integrated-tabs {
+    width: 95%;
+    padding: 8px;
+    margin-top: 20px;
+  }
+  
+  .integrated-tab-button {
+    font-size: 13px;
+    padding: 10px 12px;
+  }
+}
+
+/* Alternative: If you want the tabs to have more spacing like in your image */
+.projects-integrated-tabs.spaced {
+  gap: 4px;
+  padding: 6px;
+}
+
+.projects-integrated-tabs.spaced .integrated-tab-button {
+  padding: 10px 20px;
+  margin: 0 2px;
+}

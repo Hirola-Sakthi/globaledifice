@@ -1,0 +1,355 @@
+/* blogs page styles starts here */
+.Gavityblogpage-main-page-head .Edifice-logo img{
+    filter: brightness(1);
+}
+
+.Gavityblogpage-main-page-head .navbar-expand-lg .navbar-nav {
+    gap: 12px;
+    border: 1px solid #000;
+}
+.Gavityblogpage-main-page-head {
+    width: 100%;
+}
+.Gavityblogpage-main-sub {
+    background-image: url("/public/gavityphotos/BG.jpg");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* margin-top: 12px; */
+    padding-top: 100px;
+}
+.Blogs-banner-background {
+    height: 480px;
+    background-image: url('/public/blogs-background.png');
+    background-position: left;
+    background-size: 85% 200%;
+    background-repeat: repeat;
+    /* margin: auto; */
+}
+.Gavityblogpage-main-sub h5 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+    font-size: 130px;
+    height: 360px;
+}
+.Gavityblogpage-popular-word h5 {
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 35px;
+    padding-top: 50px;
+}
+.row.Gavityblogpage-block-two-main {
+    width: 100%;
+    border: 1px solid #E7E7E7;
+    padding:15px 5px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.Gavityblogpage-block-two-popular-img {
+    width:95%;
+    height: 361px;
+}
+.Gavityblogpage-block-two-popular-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 40px;
+}
+.Gavityblogpage-block-two-popular-lines {
+    padding: 20px;
+}
+.Gavityblogpage-block-two-popular-lines h4 {
+    font-size: 25px;
+    width: 100%;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: #292F36;
+    line-height: 1.5;
+}
+.Gavityblogpage-block-two-popular-lines p {
+    margin: 0;
+    padding: 10px 0px;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    width: 383px;
+}
+.Gavityblogpage-block-two-popular-arrow-logo {
+    width: 31px;
+    height: 30px;
+    background-color: #002150;
+    padding: 3px;
+    border-radius: 28px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Gavityblogpage-block-two-popular-arrow-logo img{
+    width: 9px;
+    height: 15px;
+    margin-top: -4px;
+}
+.Gavityblogpage-Articles-card-img {
+    width: 100%;
+    height: 245px;
+    margin-bottom: 5px;
+    position: relative;
+}
+.Gavityblogpage-Articles-card-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 35px 35px 0px 0px;
+}
+.blogs-category-badge{
+    position: absolute;
+    bottom: 0;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    width: fit-content;
+    padding: 9px 10px;
+    border-radius: 11px 11px 11px 0px;
+    color: black;
+    background-color: transparent;
+    background-color: white;
+    bottom: 10px;
+    left: 20px;
+}
+.Gavityblogpage-Articles-card-main {
+    border: 1px solid #E7E7E7;
+    padding: 17.5px;
+    border-radius: 50px;
+    margin-bottom: 24px;
+    position: relative;
+}
+.Gavityblogpage-Articles-card-main:hover{
+    background-color: #002150;
+
+}
+.Gavityblogpage-Articles-card-main:hover h4{
+    color: white !important;
+}
+.Gavityblogpage-Articles-card-main:hover p{
+    color: white !important;
+}
+.Gavityblogpage-Articles-card-main:hover .Gavityblogpage-block-two-popular-arrow-logo-two {
+    background-color: white;
+   
+}
+.Gavityblogpage-Articles-card-main:hover .Gavityblogpage-block-two-popular-arrow-logo-two img{
+    color: #002150 !important;
+    filter: brightness(0);
+}
+
+.Gavityblogpage-Articles-card-main h4 {
+    line-height: 1.5;
+    font-size: 21px;
+    font-weight: 600;
+    color: #292F36;
+    padding: 10px 0px;
+}
+.Gavityblogpage-Articles-card-date-and-arrow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Gavityblogpage-Articles-card-date-and-arrow p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    padding: 10px 0px;
+}
+
+.Gavityblogpage-block-two-popular-arrow-logo-two {
+    width: 36px;
+    height: 36px;
+    background-color:#002150;
+    padding: 3px;
+    border-radius: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Gavityblogpage-block-two-popular-arrow-logo-two img {
+    width: 16px;
+    height: 16px;
+    margin-top: -3px;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 18px 0px 30px;
+}
+  
+.pagination button {
+    background-color: #f1f1f1;
+    width: 45px;
+    border: none;
+    padding: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 37px;
+}
+  .pagination button:hover {
+    background-color: #002150;
+    color: white;
+  }
+
+  
+  .pagination button:focus {
+    outline: none;
+    background-color: #002150;
+    color: white;
+  }
+  .Blogs-page-main-parent {
+    width: 85%;
+    margin: auto;
+}
+@media screen and (max-width:991px){
+    .Gavityblogpage-main-page-head .navbar-expand-lg .navbar-nav {
+        border: none;
+    }
+    .Gavityblogpage-main-page-head .navbar-toggler-icon {
+        filter: brightness(0);
+    }
+}
+  @media only screen and (max-width: 767px) {
+    .Blogs-banner-background {
+        height: 250px;
+        background-size: 140% 250%;
+    }
+    .Gavityblogpage-block-two-popular-img {
+        width: 100%;
+        height: 100%;
+    }   
+    .Gavityblogpage-Articles-card-main h4 {
+        width: 100%;
+    }
+    .Gavityblogpage-block-two-popular-lines p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .Gavityblogpage-main-sub h5 {
+        font-size: 51px;
+        height: 161px;
+    }
+    .Gavityblogpage-popular-word {
+        margin: 25px 0px 0px;
+    }
+    .Gavityblogpage-Articles-card-main {
+        padding: 12px;
+        border-radius: 30px;
+        margin-bottom: 15px;
+    }
+    .Gavityblogpage-Articles-card-img img {
+        border-radius: 20px 20px 0px 0px;
+    }
+
+    .Gavityblogpage-popular-word h5 {
+        font-size: 26px;
+        font-weight: 500;
+        margin-bottom: 20px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .Blogs-page-main-parent {
+        width: 100%;
+    }
+    .row.Gavityblogpage-block-two-main {
+        margin: 0px;
+        padding: 10px 0px;
+    }
+    .Gavityblogpage-block-two-popular-lines h4 {
+        font-size: 16px;
+        width: 100%;
+        margin-top: 0;
+    }
+    .Gavityblogpage-block-two-popular-lines {
+        padding: 10px 5px;
+    }
+  }
+  @media only screen and (min-width: 576px) and (max-width: 768px) {
+    .Gavityblogpage-main-sub h5 {
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 10px;
+        font-size: 57px;
+        height: 201px;
+    }
+    .Gavityblogpage-block-two-popular-lines p {
+        width: 100%;
+    }
+    .Gavityblogpage-block-two-popular-img {
+        width: 100%;
+        height: 100%;
+    }
+    
+  }
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .Gavityblogpage-block-two-popular-img {
+        width: 100%;
+        height: 302px;
+    }
+    .Gavityblogpage-block-two-popular-lines h4 {
+        font-size: 15px;
+    }
+    .Gavityblogpage-block-two-popular-lines p {
+        width: 100%;
+        font-size: 13px;
+    }
+    .Gavityblogpage-popular-word h5 {
+        font-size: 26px;
+        margin-bottom: 10px;
+        padding-top: 0;
+    }
+    .Blogs-banner-background {
+        height: 370px;
+    }
+    .Gavityblogpage-main-sub h5 {
+        font-size: 60px;
+        height: 230px
+    }
+
+    .Gavityblogpage-Articles-card-main h4 {
+        line-height: 1.5;
+        font-size: 14px;
+        width: 92%;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1199px){
+    .Gavityblogpage-Articles-card-main {
+        border: 1px solid #E7E7E7;
+        padding: 12px;
+    }
+    .Blogs-banner-background {
+        height: 350px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+    .Gavityblogpage-main-sub h5 {
+        font-size: 70px;
+        height: 230px;
+    }
+    .Gavityblogpage-Articles-card-main {
+        padding: 12px
+    }
+    .Gavityblogpage-block-two-popular-img {
+        width: 100%;
+        height: 100%;
+    }
+    .Gavityblogpage-popular-word h5 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        padding-top: 0;
+    }
+}
+  

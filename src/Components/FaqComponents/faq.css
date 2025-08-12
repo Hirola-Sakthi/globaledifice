@@ -1,0 +1,557 @@
+/* careers page styles starts here */
+.Careerspage-content {
+  width: 40%;
+  margin: auto;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #002150;
+  background: #eceff7;
+  padding: 80px 70px;
+  font-size: 18px;
+}
+.Careerspage-content-main-parent {
+  background-color: #fff;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Investfaq-parent {
+  background-color: #fff;
+  padding-bottom: 50px;
+}
+
+.Investfaq-parent .Edifice-logo img {
+  filter: brightness(0);
+}
+
+.Investfaq-parent .navbar-expand-lg .navbar-nav {
+      border: 1px solid #000;
+      background: #fff;
+}
+
+.faq-subparent {
+  margin: 0px auto;
+  padding: 140px 0 0 0;
+}
+
+.faq-subparent h2 {
+  font-size: 50px;
+  color: #002150;
+  text-align: center;
+}
+
+.Investfaq-parent .accordion-item {
+  width: 80%;
+  margin: 14px auto;
+  border: 2px solid #002150;
+  padding: 18px;
+  border-radius: 20px !important;
+}
+
+.faq-subparent h2 span {
+  font-size: 38px;
+  color: #002150;
+  text-align: center;
+  position: relative;
+  top: -6px;
+}
+
+.Investfaq-parent .accordion-item-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Investfaq-parent .accordion-item-title p {
+  color: #002150;
+  margin: 0;
+  font-size: 24px;
+}
+
+.Investfaq-parent .accordion-item-title span {
+  color: #fff;
+  margin: 0;
+  font-size: 24px;
+}
+
+.Investfaq-parent .accordion-item-desc {
+  font-size: 16px;
+  padding-top: 10px;
+  color: #002150;
+  margin: 0;
+}
+
+.Faqconatct-heading {
+  text-align: center;
+}
+
+.Faqconatct-heading h2 {
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 10px;
+  font-size: 38px;
+}
+
+.Faqconatct-heading p {
+  padding: 6px 10px;
+  font-size: 22px;
+}
+
+.Faqconatct-subparent {
+  margin: 60px auto;
+}
+
+.Faqconatct-heading h2 span {
+  font-size: 38px;
+  color: #002150;
+  margin-left: 10px;
+}
+
+.faqcontact-form h6 {
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 3px;
+  color: #002150;
+  margin: 15px 0;
+}
+
+.faqcontact-form-fields {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.faqcontact-form-fields .faqcontact-faq {
+  width: 44% !important;
+  border-bottom: 2px solid black;
+  margin: 10px auto;
+}
+
+.faqcontact-form-fields .faqcontact-faq input {
+  width: 100%;
+  border: none;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.faqcontact-form-fields .faqcontact-faq input:focus-visible {
+  border: none;
+  outline: none;
+}
+
+@media only screen and (max-width: 576px) {
+  .faq-subparent h2 {
+    font-size: 18px;
+  }
+
+  .faq-subparent h2 span {
+    font-size: 16px;
+    top: 0;
+  }
+
+  .faq-subparent {
+    padding: 0 0;
+  }
+
+  .Investfaq-parent .accordion-item {
+    width: 94%;
+    margin: 4px auto;
+    padding: 8px;
+  }
+
+  .Investfaq-parent .accordion-item-desc {
+    font-size: 12px;
+  }
+
+  .Investfaq-parent .accordion-item-title p,
+  .Investfaq-parent .accordion-item-title span {
+    font-size: 15px;
+  }
+
+  .faqcontact-form-fields {
+    width: 100%;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq input {
+    font-size: 14px;
+    padding: 6px;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq {
+    width: 46%;
+    margin: 4px auto;
+  }
+
+  .faqcontact-form h6 {
+    font-size: 18px;
+    margin: 6px auto 18px auto;
+    letter-spacing: 2px;
+  }
+
+  .Faqconatct-heading p {
+    padding: 0px 10px;
+    font-size: 14px;
+    width: 76%;
+    margin: 4px auto;
+    line-height: 20px;
+  }
+  .contact-us-invest {
+    padding: 7px 14px;
+    border: 2px solid #002150;
+    width: 160px;
+    margin: 16px auto;
+  }
+
+  .Faqconatct-subparent {
+    margin: 22px auto;
+  }
+  .contact-us-invest h6 {
+    font-size: 16px;
+  }
+  .contact-us-invest svg {
+    width: 20px;
+    height: 20px;
+  }
+  .Faqconatct-heading h2 {
+    font-size: 28px;
+    padding: 2px 10px;
+  }
+
+  .Faqconatct-heading h2 span {
+    font-size: 28px;
+  }
+  .Careerspage-content-main-parent {
+    height: fit-content;
+    padding: 0px;
+    margin-bottom: -75px;
+  }
+  .Careerspage-content {
+    width: 100%;
+    padding: 50px 15px 35px 15px;
+    font-size: 14px;
+    text-align: justify;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+  .Careerspage-content {
+    width: 70%;
+    padding: 30px;
+    font-size: 16px;
+  }
+  .Careerspage-content-main-parent {
+    padding: 40px 0px;
+    height: fit-content;
+    margin-bottom: -65px;
+  }
+  .faq-subparent h2 {
+    font-size: 22px;
+  }
+
+  .faq-subparent h2 span {
+    font-size: 18px;
+    top: -2px;
+  }
+
+  .faq-subparent {
+    padding: 0 0;
+  }
+
+  .Investfaq-parent .accordion-item {
+    width: 98%;
+    margin: 4px auto;
+    padding: 8px;
+  }
+
+  .Investfaq-parent .accordion-item-desc {
+    font-size: 13px;
+  }
+
+  .Investfaq-parent .accordion-item-title p,
+  .Investfaq-parent .accordion-item-title span {
+    font-size: 17px;
+  }
+
+  .faqcontact-form-fields {
+    width: 100%;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq input {
+    font-size: 14px;
+    padding: 6px;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq {
+    width: 46%;
+    margin: 4px auto;
+  }
+
+  .faqcontact-form h6 {
+    font-size: 18px;
+    margin: 6px auto 18px auto;
+    letter-spacing: 2px;
+  }
+
+  .Faqconatct-heading p {
+    padding: 0px 10px;
+    font-size: 14px;
+    width: 76%;
+    margin: 4px auto;
+    line-height: 20px;
+  }
+  .contact-us-invest {
+    padding: 8px 14px;
+    border: 2px solid #002150;
+    width: 180px;
+    margin: 16px auto;
+  }
+
+  .Faqconatct-subparent {
+    margin: 22px auto;
+  }
+  .contact-us-invest h6 {
+    font-size: 18px;
+  }
+  .contact-us-invest svg {
+    width: 20px;
+    height: 20px;
+  }
+  .Faqconatct-heading h2 {
+    font-size: 28px;
+    padding: 2px 10px;
+  }
+
+  .Faqconatct-heading h2 span {
+    font-size: 28px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .Careerspage-content {
+    width: 50%;
+    padding: 30px;
+    font-size: 16px;
+  }
+  .Careerspage-content-main-parent {
+    padding: 40px 0px;
+    height: fit-content;
+    margin-bottom: -65px;
+  }
+  .faq-subparent h2 {
+    font-size: 26px;
+  }
+
+  .faq-subparent h2 span {
+    font-size: 21px;
+    top: -4px;
+  }
+
+  .faq-subparent {
+    padding: 0 0;
+  }
+
+  .Investfaq-parent .accordion-item {
+    width: 96%;
+    margin: 4px auto;
+    padding: 8px;
+  }
+
+  .Investfaq-parent .accordion-item-desc {
+    font-size: 14px;
+  }
+
+  .Investfaq-parent .accordion-item-title p,
+  .Investfaq-parent .accordion-item-title span {
+    font-size: 18px;
+  }
+
+  .faqcontact-form-fields {
+    width: 100%;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq input {
+    font-size: 16px;
+    padding: 6px;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq {
+    width: 46%;
+    margin: 10px auto;
+  }
+
+  .faqcontact-form h6 {
+    font-size: 20px;
+    margin: 6px auto 18px auto;
+    letter-spacing: 2px;
+  }
+
+  .Faqconatct-heading p {
+    padding: 0px 10px;
+    font-size: 16px;
+    width: 60%;
+    margin: 4px auto;
+    line-height: 20px;
+  }
+  .contact-us-invest {
+    padding: 10px 14px;
+    border: 2px solid #002150;
+    width: 180px;
+    margin: 22px auto;
+  }
+
+  .Faqconatct-subparent {
+    margin: 30px auto;
+  }
+  .contact-us-invest h6 {
+    font-size: 19px;
+  }
+  .contact-us-invest svg {
+    width: 24px;
+    height: 22px;
+  }
+  .Faqconatct-heading h2 {
+    font-size: 30px;
+    padding: 2px 10px;
+  }
+
+  .Faqconatct-heading h2 span {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+  .Careerspage-content {
+    width: 50%;
+    padding: 50px;
+    font-size: 16px;
+  }
+  .Careerspage-content-main-parent {
+    padding: 40px 0px;
+    height: fit-content;
+    margin-bottom: 0;
+  }
+  .faq-subparent h2 {
+    font-size: 26px;
+  }
+
+  .faq-subparent h2 span {
+    font-size: 21px;
+    top: -4px;
+  }
+
+  .faq-subparent {
+    padding: 10px 0;
+  }
+
+  .Investfaq-parent .accordion-item {
+    width: 92%;
+    margin: 6px auto;
+    padding: 10px;
+  }
+
+  .Investfaq-parent .accordion-item-desc {
+    font-size: 15px;
+  }
+
+  .Investfaq-parent .accordion-item-title p,
+  .Investfaq-parent .accordion-item-title span {
+    font-size: 19px;
+  }
+
+  .faqcontact-form-fields {
+    width: 75%;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq input {
+    font-size: 16px;
+    padding: 8px;
+  }
+
+  .faqcontact-form-fields .faqcontact-faq {
+    width: 46%;
+    margin: 10px auto;
+  }
+
+  .faqcontact-form h6 {
+    font-size: 22px;
+    margin: 8px auto 18px auto;
+    letter-spacing: 2px;
+  }
+
+  .Faqconatct-heading p {
+    padding: 0px 10px;
+    font-size: 16px;
+    width: 42%;
+    margin: 4px auto;
+    line-height: 20px;
+  }
+  .contact-us-invest {
+    padding: 8px 14px;
+    border: 2px solid #002150;
+    width: 180px;
+    margin: 22px auto;
+  }
+
+  .Faqconatct-subparent {
+    margin: 30px auto;
+  }
+  .contact-us-invest h6 {
+    font-size: 20px;
+  }
+  .contact-us-invest svg {
+    width: 25px;
+    height: 23px;
+  }
+  .Faqconatct-heading h2 {
+    font-size: 32px;
+    padding: 6px 10px;
+  }
+
+  .Faqconatct-heading h2 span {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+}
+
+.contact-us-investedifice {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.contact-us-invest {
+  padding: 10px 26px;
+  border-radius: 10px;
+  border: none;
+  background: #002150;
+  color: #fff;
+  margin-top: 15px;
+  display: inline-flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.contact-us-invest h6 {
+    margin-bottom: 0;
+}
+
+.view-all-job-button {
+    background-color: #002150 !important;
+}
+
+.apply-now-job-button {
+    background-color: #BC8D09 !important;
+}
+
+.career-opportunity-parent {
+    background-color: #002150;
+}

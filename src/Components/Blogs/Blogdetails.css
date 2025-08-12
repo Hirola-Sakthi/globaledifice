@@ -1,0 +1,207 @@
+.BlogDetails-main-parent .Edifice-logo img {
+    filter: brightness(0);
+}
+.position-relative {
+    position: relative !important;
+    padding-top: 115px;
+}
+
+.BlogDetails-main-parent .navbar-expand-lg .navbar-nav {
+    gap: 12px;
+    border: 1px solid #000;
+}
+.Blogdetails-main-head {
+    width: 70%;
+    margin: 10px auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.Blogdetails-img-main {
+    width: 100%;
+    height: 450px;
+}
+.Blogdetails-img-main img{
+    width: 100%;
+    height: 100%;
+}
+.BlogDetails-Finibus-Bonorum-line-main {
+    width: 100%;
+    margin: 17px auto;
+}
+.BlogDetails-Finibus-Bonorum-line-head-sub {
+    text-align: start;
+}
+.BlogDetails-Finibus-Bonorum-line-head-sub h2 {
+    font-size: 40px;
+    word-spacing: 5px;
+    font-weight: 600;
+    padding: 15px 0px;
+    margin: 0;
+    color: black;
+    letter-spacing: 1px;
+}
+.BlogDetails-Finibus-Bonorum-sub-lines {
+text-align: justify;
+}
+.BlogDetails-Finibus-Bonorum-sub-lines {
+    width: 100%;
+}
+.BlogDetails-Finibus-Bonorum-sub-lines p{
+    width: 100%;
+}
+.BlogDetails-Finibus-Bonorum-line-head-sub p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+   
+}
+.BlogDetails-Finibus-Bonorum-sub-lines p {
+    width: 100%;
+    text-align: start;
+    font-size: 17px;
+    font-weight: 400;
+    color: #45546d;
+    margin-bottom: 15px;
+}
+.BlogDetails-Finibus-Bonorum-sub-lines h5 {
+    text-align: start;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 0px 5px;
+}
+.BlogDetails-Finibus-Bonorum-sub-lines h4 {
+    font-size: 25px;
+    text-align: start;
+    font-weight: 600;
+    color: black;
+    padding: 10px 0px 5px;
+}
+ .BlogDetails-Finibus-Bonorum-sub-lines h6{
+    font-size: 25px;
+    text-align: start;
+    font-weight: 600;
+    color: #2D3748;
+    padding: 0px 0px 15px;
+ }
+ .BlogDetails-scrollTop {
+    position: absolute;
+    right: 70px;
+    bottom: 30px;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+.BlogDetails-scrollTop img{
+    height: 100%;
+    width: 100%;
+}
+@media screen and (max-width:575px){
+    .Blogdetails-img-main {
+        height: 300px;
+    }
+}
+@media screen and (min-width:576px) and (max-width:766px){
+    .Blogdetails-img-main {
+        height: 330px;
+    }
+}
+ @media only screen and (max-width: 767px) {
+    .BlogDetails-Finibus-Bonorum-line-main {
+        margin: 8px auto;
+    }
+    .Blogdetails-main-head {
+        width: 95%;
+        margin-top: -10px;
+    }
+    .BlogDetails-Finibus-Bonorum-line-head-sub {
+        text-align: center;
+    }
+    .BlogDetails-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 19px;
+        padding: 5px 0px;
+        word-spacing: 3px;
+        padding-bottom: 20px;
+    }
+    .BlogDetails-Finibus-Bonorum-line-head-sub p {
+        font-size: 11px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines p {
+        font-size: 13.5px;
+        text-align: justify;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h5 {
+        font-size: 15px;
+        padding: 0px 0px 5px;
+    }
+    .BlogDetails-scrollTop {
+        right: 15px;
+        bottom: -15px;
+        height: 35px;
+        width: 35px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h4 {
+        font-size: 15px;
+        padding: 0px 0px 5px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h6 {
+        font-size: 15px;
+        padding: 0px 0px 5px; 
+    }
+ }
+
+ @media only screen and (min-width: 768px) and (max-width: 992px) {
+    .BlogDetails-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 25px;
+        padding: 10px 0px;
+        word-spacing: 3px;
+    }
+    .BlogDetails-Finibus-Bonorum-line-head-sub p {
+        font-size: 14px;
+        margin-bottom: 15px;
+        
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines p {
+        font-size: 14px;
+        text-align: justify;
+    }
+    .BlogDetails-scrollTop {
+        right: 40px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h5 {
+        font-size: 14px;
+        padding: 5px 0px 5px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h4 {
+        font-size: 20px;
+        padding: 0px 0px 5px;
+    }
+    .BlogDetails-Finibus-Bonorum-sub-lines h6 {
+        font-size: 20px;
+        text-align: start;
+        font-weight: 600;
+        color: black;
+        padding: 0px 0px 10px;
+        margin: 0;
+    }
+ }
+
+/* media queries starts here */
+@media screen and (max-width:991px){
+    .BlogDetails-main-parent .navbar-expand-lg .navbar-nav {
+        border:none;
+    }
+    .BlogDetails-main-parent .navbar-toggler-icon {
+        filter: brightness(0);
+    }
+    .BlogDetails-main-parent  .HomeNavbar-mainparent li.nav-item.active {
+        border: none;
+    }
+    .BlogDetails-main-parent .navbar-expand-lg .navbar-nav {
+        gap: 12px;
+        border: none;
+    }
+    .BlogDetails-main-parent .Edifice-logo img {
+        filter: brightness(0);
+    }
+}

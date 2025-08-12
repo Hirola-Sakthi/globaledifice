@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+* {
+  font-family:"Futura";
+}
+
+h2 {
+  font-weight: 600 !important;
+}
+
+h1 {
+  font-weight: 600 !important;
+}
+
+/* p {
+  font-size: 17px !important;
+} */
+.offcanvas-header .Edifice-logo img {
+  filter: brightness(1);
+}
+
+.Projects-mainpage .Edifice-logo img,
+.Contactus-main-parent .Edifice-logo img {
+  filter: brightness(1);
+}
+
+.HomeNavbar-mainparent button.navbar-toggler {
+  filter: brightness(20);
+}
+
+button.navbar-toggler {
+  filter: brightness(0);
+}
+
+@media screen and (max-width:991px) {
+  .Edifice-logo {
+    height: 60px;
+    width: 115px !important;
+    margin-left: 10px;
+  }
+
+  .offcanvas-body .navbar-nav .dropdown-menu {
+    text-align: center;
+    border: none;
+    margin-top: -15px;
+  }
+
+  .offcanvas-body .dropdown-item {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+  .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+    flex-direction: column;
+    justify-content: normal;
+    gap: 8px;
+  }
+
+  .HomeNavbar-mainparent li.nav-item.active {
+    border: none !important;
+  }
+
+  .navbar-header-button {
+    width: 100% !important;
+  }
+
+  .navbar-header-button .form-inline {
+    display: flex;
+    justify-content: center;
+  }
+
+  .navbar-header-button a {
+    text-decoration: none;
+  }
+
+  .navbar-header-button button.btn.my-2.my-sm-0 {
+    background: #002150;
+    color: #ffff;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .Edifice-logo {
+    position: relative;
+    left: 40px;
+  }
+
+  .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+    width: 100%;
+    justify-content: space-evenly;
+    gap: 5px;
+  }
+
+  .HomeNavbar-mainparent a.nav-link {
+    padding: 7px 0px;
+    font-size: 13px;
+  }
+
+  .HomeNavbar-mainparent li.nav-item.active {
+    padding: 0px 8px !important;
+  }
+
+  .Projects-mainpage .navbar-expand-lg .navbar-nav {
+    gap: 5px;
+    border: 1px solid #000;
+  }
+
+  .navbar-expand-lg .navbar-nav {
+    gap: 5px !important;
+    border: 1px solid #000;
+  }
+
+  .HomeNavbar-mainparent li.nav-item {
+    padding: 0px 6px !important;
+  }
+}
+
+@media screen and (max-width:991px) {
+  nav.navbar.navbar-expand-lg {
+    padding: 0;
+  }
+}
+
+.Edifice-logo {
+  height: 80px;
+  width: 180px;
+}
+
+.Edifice-logo img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overflow-x: hidden;
+  overflow-y: visible !important;
+}
+
+.dropdown-item {
+  cursor: pointer;
+  font-weight: 600 !important;
+  font-size: 15px;
+}
+
+.contact-number-button span {
+  color: #002150;
+  font-weight: 600;
+}
+
+.contact-number-button button.btn.my-2.my-sm-0 {
+  padding: 13px 16px;
+  border: 1px solid #002150;
+}
+
+@media screen and (max-width:991px) {
+  .contact-number-button span {
+    color: #002150;
+  }
+
+  .contact-number-button button.btn.my-2.my-sm-0 {
+    padding: 13px 16px;
+    border: 1px solid #002150 !important;
+    background: none !important;
+  }
+}
+
+.projectpending-status img {
+  width: 700px;
+  height: 400px;
+  margin: 30px auto;
+
+}
+
+.projectpending-status {
+  padding: 20px;
+  margin: 30px 0;
+  font-family: sans-serif;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.projectpending-status h2 {
+  margin-top: 0;
+  color: #BC8D09;
+}

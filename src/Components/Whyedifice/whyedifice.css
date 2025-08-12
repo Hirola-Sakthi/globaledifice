@@ -1,0 +1,1165 @@
+/* leadership section */
+@media screen and (min-width:991px) {
+    .WhyedificeLeadership-right .col-sm-6.col-md-6.col-lg-5:first-child {
+        padding-right: 0;
+    }
+
+    .WhyedificeLeadership-right .col-sm-6.col-md-6.col-lg-5:nth-child(2) {
+        padding-right: 0;
+    }
+}
+
+
+.WhyEdifice-main-page .navbar-expand-lg .navbar-nav {
+    gap: 12px;
+    border: 1px solid #000;
+}
+
+.WhyEdifice-main-page .Edifice-logo img {
+    filter: brightness(0);
+}
+
+.WhyedificeLeadership-parent {
+    overflow: hidden;
+    position: relative;
+}
+
+.WhyedificeLeadership-sub-parent {
+    width: 95%;
+    margin: auto;
+    padding: 90px 0px 30px 0px;
+
+}
+
+.WhyedificeLeadership-sub-parent>.row {
+    justify-content: center;
+    align-items: center;
+}
+
+.WhyedificeLeadership-absoluteimage {
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    right: -192px;
+    top: -160px;
+    z-index: 1;
+}
+
+.WhyedificeLeadership-absoluteimage img {
+    height: 100%;
+    width: 100%;
+}
+
+.WhyedificeLeadership-left-sub1 h2 {
+    color: #002150;
+}
+
+.WhyedificeLeadership-left-sub1 P {
+    color: #1B1B1B;
+    font-size: 17px;
+}
+
+.WhyedificeLeadership-left-sub2 p {
+    font-size: 20px;
+    color: #002150;
+    /* font-weight: 600; */
+    margin: 0;
+}
+
+.WhyedificeLeadership-left-sub2 p:last-child {
+    text-align: right;
+    padding-right: 90px;
+    font-weight: 400;
+}
+
+.WhyedificeLeadership-right .card {
+    border: none;
+}
+
+.WhyedificeLeadership-right .card-body {
+    background: #d5d3d3;
+    border-radius: 0px 0px 10px 10px;
+    padding-bottom: 30px;
+}
+
+.WhyedificeLeadership-right-sub1 {
+    height: 315px;
+    width: 100%;
+}
+
+.WhyedificeLeadership-right-sub1 img {
+    height: 100%;
+    width: 100%;
+}
+
+.WhyedificeLeadership-right .card-body p {
+    font-size: 20px;
+    margin: 0;
+}
+
+.WhyedificeLeadership-right>.row {
+    justify-content: center;
+    gap: 40px;
+}
+
+.TopSection p {
+    font-size: 18px;
+}
+
+/* ask section */
+
+.AskSection-parent {
+    width: 90%;
+    margin: auto;
+    padding: 0px 0px 80px 0px;
+}
+
+.AskSection-sub-parent {
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+.AskSection-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 400px;
+    width: 72%;
+    margin: auto;
+    color: #002150;
+    text-align: center;
+}
+
+.AskSection-content p {
+    font-size: 18px;
+}
+
+.AskSection-content button {
+    padding: 8px 30px;
+    border-radius: 10px;
+    background: #bc8d09;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+}
+
+/* banner section starts here */
+.WhyedificeBanner-sub-parent {
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.WhyedificeBanner-sub-parent h1 {
+    color: #002150;
+    font-size: 62px;
+    padding-bottom: 50px;
+}
+
+.banner-icon-parent {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.banner-icon-parent p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.banner-icon {
+    height: 70px;
+    width: 100px;
+}
+
+.banner-icon img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.Banner-mainimage {
+    height: 550px;
+    width: 100%;
+}
+
+.Banner-mainimage img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.banner-mainrow {
+    position: relative;
+    align-items: center;
+}
+
+.BannerAbsoluteSection {
+    display: flex;
+    border: 1px solid #002150;
+    width: fit-content !important;
+    border-radius: 25px;
+    padding: 0 !important;
+    position: absolute;
+    right: 28px;
+    top: -22px;
+}
+
+.BannerAbsoluteSection hr {
+    margin: 0;
+    height: 0.5px;
+    width: 100%;
+    opacity: 1;
+}
+
+.BannerAbsoluteSection-sub {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.BannerAbsoluteSection-sub span {
+    padding: 0px 12px;
+    color: #002150;
+    font-size: 13px;
+}
+
+/* .BannerAbsoluteSection-sub span:first-child{
+    border-bottom: 1px solid #000;
+} */
+.BannerAbsoluteSection p {
+    border-right: 1px solid #002150;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10px;
+    color: #002150;
+}
+
+/* about us section */
+.TopSection {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 90%;
+    margin: auto;
+    padding: 90px 0px;
+}
+
+.EmptyLine {
+    height: 2px;
+    /* width: 300px; */
+    background: #000;
+}
+
+.AboutSection-right-sub2 {
+    color: #fff;
+}
+
+.AboutSection-right-sub2-inner {
+    background: #002150;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.CheckCircle-image {
+    height: 25px;
+    width: 22px;
+    margin-top: 6px;
+}
+
+.AboutUs-main-parent.building {
+    padding-top: 40px;
+}
+
+.AboutUs-main-parent.building .AboutSection-right-sub1 h2{
+    padding-bottom: 20px;
+}
+
+
+.AboutUs-main-parent {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.AboutSection-right-sub2-inner h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    margin-top: -5px;
+    color: #bc8d09;
+}
+
+.AboutSection-right-sub2-inner p {
+    font-size: 24px;
+    margin-bottom: 5px;
+    color: #bc8d09;
+}
+
+.AboutSection-right-sub2-inner .gap-3 {
+    margin-bottom: 15px;
+}
+
+.AboutSection-right-sub1 p {
+    font-size: 20px;
+}
+
+.AboutUs-mainSection-image {
+    height: 550px;
+    width: 100%;
+    /* margin-bottom: 30px; */
+}
+
+.AboutUs-mainSection-image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.location-icon {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding-left: 65px;
+}
+
+.location-icon img {
+    height: 30px;
+    width: 30px;
+}
+
+.location-icon p {
+    margin: 0;
+}
+
+.AboutUs-mainSection>.row {
+    align-items: center;
+}
+
+/* RecentProjects section */
+.RecentProjects-title {
+    width: 90%;
+    margin: auto;
+    padding: 20px 0px;
+}
+
+.RecentProjects-sub-parent {
+    margin-bottom: -24px;
+}
+
+.RecentProjects-image {
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+.RecentProjects-image img {
+    height: 100%;
+    width: 100%;
+}
+
+.SwiperAbsoluteText {
+    position: absolute;
+    color: #fff;
+    bottom: 60px;
+    left: 90px;
+}
+
+.location-parent {
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    padding-top: 5px;
+}
+
+.location-parent img {
+    height: 22px;
+    width: 22px;
+}
+
+.RecentProjects-sub-parent .swiper-pagination-fraction {
+    text-align: end;
+    color: #fff;
+    width: 80%;
+    position: relative;
+    top: -90px;
+}
+
+
+.Swiper-pagination-buttons-parent {
+    position: absolute;
+    right: 0;
+    width: 32%;
+    bottom: 45px;
+}
+
+.RecentProjects-sub-parent .swiper-button-prev {
+    left: 50px;
+    top: -55px;
+}
+
+.RecentProjects-sub-parent .swiper-button-next {
+    right: 200px;
+    top: -56px;
+}
+
+.RecentProjects-sub-parent .swiper-button-prev:after,
+.RecentProjects-sub-parent .swiper-button-next:after {
+    display: none;
+}
+
+.RecentProjects-sub-parent.position-relative {
+    padding-top: 100px;
+}
+
+/* media queries starts here */
+@media screen and (max-width:991px) {
+    .WhyEdifice-main-page .navbar-expand-lg .navbar-nav {
+        border: none;
+    }
+
+    .WhyEdifice-main-page .navbar-toggler-icon {
+        filter: brightness(0);
+    }
+
+    .WhyEdifice-main-page .HomeNavbar-mainparent li.nav-item.active {
+        border: none;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .WhyedificeLeadership-right .card-body {
+        width: 93%;
+        margin: auto;
+    }
+
+    .WhyedificeLeadership-right-sub1 {
+        width: 93%;
+        margin: auto;
+    }
+
+    .WhyedificeLeadership-right>.row {
+        justify-content: flex-start;
+        gap: 20px;
+    }
+
+    .AboutUs-left-section,
+    .AboutUs-right-section {
+        width: 95%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 20px 18px !important;
+        border-radius: 35px;
+        margin-bottom: 40px !important;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+    .WhyedificeLeadership-right>.row {
+        justify-content: flex-start;
+        gap: 0px;
+    }
+
+    .WhyedificeLeadership-right .card-body p {
+        font-size: 15px;
+    }
+
+    .WhyedificeLeadership-right {
+        padding-top: 20px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .EmptyLine {
+        height: 1px;
+        width: 300px;
+    }
+
+    .WhyedificeBanner-sub-parent h1 {
+        font-size: 28px;
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .BannerAbsoluteSection {
+        right: 0;
+        top: inherit;
+        bottom: -44px;
+        left: 0;
+        width: 277px !important;
+        margin: auto;
+    }
+
+    .location-icon {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        justify-content: center;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .Swiper-pagination-buttons-parent {
+        position: absolute;
+        right: 0;
+        width: 100%;
+        bottom: 0;
+    }
+
+    .banner-icon-parent {
+        gap: 10px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .Banner-mainimage {
+        height: 320px;
+    }
+
+    .TopSection {
+        gap: 20px;
+        width: 95%;
+        text-align: justify;
+        flex-direction: column;
+        padding: 75px 0px 20px 0px;
+    }
+
+    .TopSection p {
+        font-size: 16px;
+    }
+
+    .AboutUs-mainSection-image {
+        height: 280px;
+        margin-bottom: 12px;
+    }
+
+    .banner-icon {
+        height: 55px;
+        width: 100px;
+    }
+
+    .AboutSection-right {
+        margin-top: 35px;
+        text-align: center;
+    }
+
+    .AboutSection-right span {
+        text-align: justify;
+        font-size: 16px;
+    }
+
+    .AboutSection-right-sub2-inner {
+        padding: 15px;
+        text-align: left;
+    }
+
+    .AboutSection-right-sub2-inner p {
+        font-size: 18px;
+    }
+
+    .AboutSection-right-sub2-inner h2 {
+        margin-bottom: 13px;
+        font-size: 22px;
+        margin-top: 0;
+        text-align: center;
+    }
+
+    .AboutSection-right-sub2-inner .gap-3 {
+        gap: 10px !important;
+    }
+
+    .CheckCircle-image {
+        height: 20px;
+        width: 20px;
+    }
+
+    .RecentProjects-sub-parent.position-relative {
+        padding-top: 0px;
+        justify-content: center !important;
+    }
+
+    .RecentProjects-image {
+        height: 330px;
+    }
+
+    .RecentProjects-title h2 {
+        font-size: 20px;
+    }
+
+    .RecentProjects-sub-parent .EmptyLine {
+        width: 120px !important;
+    }
+
+    .RecentProjects-sub-parent .swiper-pagination-fraction {
+        text-align: center;
+        width: 100%;
+        top: -45px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-next {
+        right: 50px;
+        top: -56px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-prev {
+        left: 50px;
+        top: -55px;
+    }
+
+    .RecentProjects-title {
+        justify-content: center;
+    }
+
+    .SwiperAbsoluteText {
+        left: 0;
+        text-align: center;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .SwiperAbsoluteText h2 {
+        font-size: 20px;
+    }
+
+    .location-parent img {
+        height: 16px;
+        width: 16px;
+    }
+
+    .AskSection-sub-parent {
+        height: fit-content;
+    }
+
+    .WhyedificeLeadership-sub-parent {
+        padding: 90px 0px 30px 0px;
+    }
+
+    .location-parent {
+        display: flex;
+        gap: 7px;
+        color: #fff;
+        padding-top: 5px;
+        align-items: center;
+        font-size: 12px;
+    }
+
+    .AskSection-content {
+        height: 100%;
+        width: 95%;
+        padding: 20px 0px;
+    }
+
+    .AskSection-content p {
+        font-size: 16px;
+        /* text-align: justify; */
+    }
+
+    .AskSection-content button {
+        font-size: 14px;
+    }
+
+    .AskSection-parent {
+        width: 95%;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .WhyedificeLeadership-left {
+        text-align: center;
+    }
+
+    .WhyedificeLeadership-right .card-body {
+        text-align: center;
+    }
+
+    .WhyedificeLeadership-left-sub2 p {
+        font-size: 15px;
+    }
+
+    .WhyedificeLeadership-left-sub1 P {
+        font-size: 16px;
+    }
+
+    .WhyedificeLeadership-left-sub2 p:last-child {
+        text-align: center;
+        padding: 6px 0px 20px 0px;
+    }
+
+    .WhyedificeLeadership-absoluteimage {
+        height: 300px;
+        width: 350px;
+        right: -170px;
+        top: -160px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .WhyEdifice-main-page .navbar-expand-lg .navbar-nav {
+        flex-direction: column;
+    }
+
+    .AskSection-content p {
+        font-size: 16px;
+    }
+
+    .AskSection-content button {
+        font-size: 16px;
+    }
+
+    .WhyedificeLeadership-right>.row {
+        justify-content: center;
+        gap: 0;
+    }
+
+    .WhyedificeLeadership-right .card-body {
+        padding: 10px;
+    }
+
+    .WhyedificeLeadership-right .card-body span {
+        font-size: 11px;
+    }
+
+    .WhyedificeLeadership-right .card-body p {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .WhyedificeLeadership-left-sub1 P {
+        font-size: 14px;
+    }
+
+    .WhyedificeLeadership-left-sub2 p {
+        font-size: 16px;
+    }
+
+    .WhyedificeLeadership-absoluteimage {
+        height: 330px;
+        width: 350px;
+    }
+
+    .WhyedificeBanner-sub-parent h1 {
+        font-size: 38px;
+    }
+
+    .banner-icon-parent {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .Banner-mainimage {
+        height: 440px;
+        width: 100%;
+    }
+
+    .WhyedificeBanner-sub-parent {
+        width: 95%;
+        margin: auto;
+        padding-top: 120px;
+    }
+
+    .BannerAbsoluteSection {
+        right: 10px;
+        top: -40px;
+    }
+
+    .TopSection {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .AboutSection-right-sub2-inner {
+        padding: 15px;
+    }
+
+    .AboutSection-right-sub2-inner span {
+        font-size: 13px;
+    }
+
+    .AboutSection-right-sub2-inner p {
+        font-size: 16px;
+    }
+
+    .CheckCircle-image {
+        height: 19px;
+        width: 19px;
+        margin-top: 6px;
+    }
+
+    .AboutSection-right-sub2-inner .gap-3 {
+        margin-bottom: 15px;
+        gap: 10px !important;
+    }
+
+    .AboutSection-right-sub2-inner h2 {
+        margin-bottom: 10px;
+        font-size: 22px;
+        margin-top: 0;
+    }
+
+    .AboutSection-right-sub1 span {
+        font-size: 14px;
+    }
+
+    .AboutUs-main-parent {
+        width: 95%;
+        margin: auto;
+    }
+
+    .AboutUs-mainSection-image {
+        height: 420px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .RecentProjects-sub-parent.position-relative {
+        padding-top: 35px;
+    }
+
+    .WhyedificeLeadership-sub-parent {
+        width: 95%;
+        margin: auto;
+        padding: 90px 0px 45px 0px;
+    }
+
+    .Swiper-pagination-buttons-parent {
+        position: absolute;
+        right: 0;
+        width: 45%;
+        bottom: 45px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-prev {
+        left: 50px;
+        top: -55px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-next {
+        right: 50px;
+        top: -56px;
+    }
+
+    .SwiperAbsoluteText {
+        left: 35px;
+    }
+
+    .SwiperAbsoluteText h2 {
+        font-size: 20px;
+    }
+
+    .SwiperAbsoluteText span {
+        font-size: 14px;
+    }
+
+    .location-parent img {
+        height: 19px;
+        width: 18px;
+    }
+
+    .AskSection-parent {
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .WhyEdifice-main-page .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+        width: 100%;
+        justify-content: space-evenly;
+        gap: 5px;
+    }
+
+    .WhyEdifice-main-page .HomeNavbar-mainparent a.nav-link {
+        padding: 7px 0px;
+        font-size: 13px;
+    }
+
+    .AskSection-content p {
+        font-size: 16px;
+    }
+
+    .AskSection-content button {
+        font-size: 16px;
+    }
+
+    .WhyedificeLeadership-right>.row {
+        justify-content: center;
+        gap: 0;
+        width: 115%;
+    }
+
+    .WhyedificeLeadership-right .card-body {
+        padding: 10px;
+    }
+
+    .WhyedificeLeadership-right .card-body span {
+        font-size: 11px;
+    }
+
+    .WhyedificeLeadership-right .card-body p {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .WhyedificeLeadership-left-sub1 P {
+        font-size: 14px;
+    }
+
+    .WhyedificeLeadership-left-sub2 p {
+        font-size: 16px;
+    }
+
+    .WhyedificeLeadership-absoluteimage {
+        height: 330px;
+        width: 350px;
+    }
+
+    .WhyedificeBanner-sub-parent h1 {
+        font-size: 38px;
+    }
+
+    .banner-icon-parent {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .Banner-mainimage {
+        height: 440px;
+        width: 100%;
+    }
+
+    .WhyedificeBanner-sub-parent {
+        width: 95%;
+        margin: auto;
+        padding-top: 120px;
+    }
+
+    .BannerAbsoluteSection {
+        right: 10px;
+        top: -40px;
+    }
+
+    .TopSection {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .AboutSection-right-sub2-inner {
+        padding: 15px;
+    }
+
+    .AboutSection-right-sub2-inner span {
+        font-size: 13px;
+    }
+
+    .AboutSection-right-sub2-inner p {
+        font-size: 16px;
+    }
+
+    .CheckCircle-image {
+        height: 19px;
+        width: 19px;
+        margin-top: 6px;
+    }
+
+    .AboutSection-right-sub2-inner .gap-3 {
+        margin-bottom: 15px;
+        gap: 10px !important;
+    }
+
+    .AboutSection-right-sub2-inner h2 {
+        margin-bottom: 10px;
+        font-size: 22px;
+        margin-top: 0;
+    }
+
+    .AboutSection-right-sub1 span {
+        font-size: 14px;
+    }
+
+    .AboutUs-main-parent {
+        width: 95%;
+        margin: auto;
+    }
+
+    .AboutUs-mainSection-image {
+        height: 420px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .RecentProjects-sub-parent.position-relative {
+        padding-top: 35px;
+    }
+
+    .WhyedificeLeadership-sub-parent {
+        width: 95%;
+        margin: auto;
+        padding: 90px 0px 45px 0px;
+    }
+
+    .Swiper-pagination-buttons-parent {
+        position: absolute;
+        right: 0;
+        width: 45%;
+        bottom: 45px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-prev {
+        left: 50px;
+        top: -55px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-next {
+        right: 50px;
+        top: -56px;
+    }
+
+    .SwiperAbsoluteText {
+        left: 35px;
+    }
+
+    .SwiperAbsoluteText h2 {
+        font-size: 20px;
+    }
+
+    .SwiperAbsoluteText span {
+        font-size: 14px;
+    }
+
+    .location-parent img {
+        height: 19px;
+        width: 18px;
+    }
+
+    .AskSection-parent {
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1300px) {
+    .WhyEdifice-main-page .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+        padding: 4px 10px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-prev {
+        left: 20px;
+    }
+
+    .RecentProjects-sub-parent .swiper-button-next {
+        right: 150px;
+    }
+
+    .WhyedificeLeadership-right .card-body {
+        padding: 12px;
+    }
+
+    .WhyedificeLeadership-right .card-body span {
+        font-size: 13px;
+    }
+
+    .WhyedificeLeadership-right>.row {
+        justify-content: center;
+        gap: 10px;
+    }
+}
+
+@media screen and (min-width:1500px) {
+
+    .WhyedificeLeadership-parent,
+    .WhyedificeBanner-parent,
+    .AboutUs-main-parent,
+    .RecentProjects-parent {
+        max-width: 1800px;
+        margin: auto;
+    }
+}
+
+.banner-background-image {
+    height: 100%;
+    position: absolute;
+    width: 74%;
+    /* border-top: 3.5px solid #f9f9f9; */
+    top: 0;
+}
+
+.banner-background-image img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.WhyedificeBanner-parent {
+    border-top: 2px solid #f9f9f9;
+    padding-top: 110px;
+}
+
+
+.AboutUs-left-section {
+    background: #002150;
+    color: #fff;
+}
+
+.AboutUs-left-section h2 {
+    color: #bc8d09;
+}
+
+.AboutUs-right-section h2 {
+    color: #bc8d09;
+}
+
+.AboutUs-left-section,
+.AboutUs-right-section {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 50px 70px;
+    border-radius: 35px;
+}
+
+.AboutUs-right-section {
+    border: 1px solid #002150;
+}
+
+.AboutSection-right-sub1 h2 {
+    font-weight: 600;
+}
+
+.AboutUs-left-section p {
+    font-size: 18px;
+}
+
+.AboutUs-right-section p {
+    font-size: 18px;
+}
+
+.AboutUs-left-section .our-vision-subtitle {
+    font-size: 24px;
+    color: #bc8d09;
+}
+
+.AboutUs-right-section .our-mission-subtitle {
+    font-size: 24px;
+    color: #bc8d09;
+}

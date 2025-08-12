@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Levenim';
+  src: url('/public/fonts/levenim-mt-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* You can add additional font weights/styles */
+@font-face {
+  font-family: 'Levenim';
+  src: url('/public/fonts/levenim-mt-bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

@@ -1,0 +1,411 @@
+/* navbar styles */
+
+.AdditionalPages .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+    gap: 12px;
+    border: 1px solid #000;
+}
+
+@media screen and (max-width:991px) {
+    .AdditionalPages .HomeNavbar-mainparent .navbar-expand-lg .navbar-nav {
+        border: none;
+    }
+
+    .AdditionalPages .navbar-toggler-icon {
+        filter: brightness(0);
+
+    }
+}
+
+.AdditionalPages .Edifice-logo img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    filter: brightness(1);
+}
+
+.Termsofuse-main-head {
+    width: 100%;
+    margin: 0px auto 10px;
+    text-align: center;
+}
+
+.Blogshead-line h5 {
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.Disclaimer-img-main {
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-size: 108.161% 281.287%;
+    background-position: -80.786px -176px;
+}
+
+p.artistic-work {
+    margin-top: 22px;
+}
+
+.Termsofuse-img-main {
+    width: 100%;
+    height: 230px;
+    background: #002150;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    /* margin-top: 20px; */
+}
+
+.Blogshead-line {
+    background-color: white;
+    padding: 23px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.Termsofuse-Finibus-Bonorum-line-main {
+    width: 80%;
+    margin: 17px auto;
+}
+
+.Termsofuse-Finibus-Bonorum-line-head-sub {
+    text-align: start;
+}
+
+.Termsofuse-Finibus-Bonorum-line-head-sub h2 {
+    color: #17574b;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    font-feature-settings: "smcp";
+    font-variant: small-caps;
+    letter-spacing: 0.7px;
+    margin-top: 49px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines {
+    width: 100%;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines p {
+    width: 100%;
+}
+
+.Termsofuse-Finibus-Bonorum-line-head-sub p {
+    color: #17574b;
+    font-size: 28px;
+    font-family: Cora;
+    font-weight: 400;
+    line-height: 35px;
+    font-feature-settings: "smcp";
+    font-variant: small-caps;
+    letter-spacing: 0.7px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines h2 {
+    text-align: start;
+    margin-top: 30px;
+    font-size: 20px;
+    color: #121212;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines h3 {
+    text-align: start;
+    margin-top: 0px;
+    font-size: 20px;
+    color: #121212;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines p {
+    width: 100%;
+    font-size: 16px;
+    color: #121212;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    text-align: start;
+    margin-bottom: 15px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines h5 {
+    text-align: start;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 0px 5px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines h4 {
+    font-size: 25px;
+    text-align: start;
+    font-weight: 600;
+    color: black;
+    padding: 10px 0px 5px;
+}
+
+.Termsofuse-Finibus-Bonorum-sub-lines h6 {
+    font-size: 25px;
+    text-align: start;
+    font-weight: 600;
+    color: #2d3748;
+    padding: 0px 0px 15px;
+}
+
+.blogste {
+    border-bottom: 1px dashed #787878;
+    padding-block: 24px;
+    padding-top: 0;
+}
+
+p.Termsofuse-first-block-line {
+    margin-top: 60px;
+}
+
+@media only screen and (max-width: 575px) {
+    .Termsofuse-Finibus-Bonorum-line-main {
+        margin: 8px auto;
+        width: 100%;
+        padding: 10px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 14px;
+        padding: 5px 0px;
+        word-spacing: 3px;
+        font-weight: 500;
+        font-feature-settings: normal;
+        font-variant: normal;
+        line-height: 20px;
+        margin-top: 12px;
+        text-align: center;
+        width: 80%;
+        margin: auto;
+    }
+
+    .Termsofuse-img-main {
+        height: 138px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h2 {
+        font-size: 22px;
+        margin-top: 0;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-head-sub p {
+        font-size: 11px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines p {
+        font-size: 12px;
+        text-align: justify;
+        margin-top: 20px !important;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h5 {
+        font-size: 11px;
+        padding: 0px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h4 {
+        font-size: 15px;
+        padding: 0px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h6 {
+        font-size: 15px;
+        padding: 0px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h3 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .blogste {
+        padding-block: 10px;
+    }
+
+    .Reradiclaimer-img-main {
+        height: 205px;
+    }
+
+    .Blogshead-line {
+        padding: 12px;
+    }
+
+    .Blogshead-line h5 {
+        font-size: 22px;
+        font-weight: 500;
+        color: black;
+        margin: 0;
+    }
+
+    p.Termsofuse-first-block-line {
+        margin-top: 18px;
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    .Termsofuse-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 20px;
+        padding: 3px 0px;
+        margin-top: 15px;
+    }
+
+    .Termsofuse-img-main {
+        height: 187px;
+    }
+
+    .Reradiclaimer-img-main {
+        height: 267px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-main {
+        width: 100%;
+        padding: 15px;
+        margin: auto;
+    }
+
+    .Blogshead-line h5 {
+        font-size: 20px;
+    }
+
+    .Blogshead-line {
+        padding: 19px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-head-sub p {
+        font-size: 14px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h4 {
+        font-size: 16px;
+        padding: 5px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h6 {
+        font-size: 16px;
+        padding: 2px 0px 6px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h5 {
+        font-size: 12px;
+    }
+
+    p.Termsofuse-first-block-line {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .Termsofuse-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 24px;
+        padding: 10px 0px;
+        word-spacing: 0px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h2 {
+        margin-top: 0px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h3 {
+        font-size: 18px;
+    }
+
+    .Blogshead-line {
+        padding: 19px;
+    }
+
+    .Reradiclaimer-img-main {
+        height: 283px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-head-sub p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines p {
+        font-size: 14px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h5 {
+        font-size: 14px;
+        padding: 5px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h4 {
+        font-size: 20px;
+        padding: 0px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h6 {
+        font-size: 20px;
+        text-align: start;
+        font-weight: 600;
+        color: black;
+        padding: 0px 0px 10px;
+        margin: 0;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+    .Termsofuse-Finibus-Bonorum-line-head-sub h2 {
+        font-size: 25px;
+        padding: 9px 0px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h2 {
+        margin-top: 0px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-line-head-sub p {
+        font-size: 14px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines p {
+        font-size: 14px;
+        margin-bottom: 14px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h5 {
+        font-size: 14px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h4 {
+        font-size: 20px;
+        padding: 0px 0px 5px;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h6 {
+        font-size: 20px;
+        padding: 0px 0px 10px;
+        margin: 0;
+    }
+
+    .Termsofuse-Finibus-Bonorum-sub-lines h3 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width:1440px){
+    .Termsofuse-Finibus-Bonorum-line-main{
+        max-width: 1500px;
+    }
+}

@@ -1,0 +1,139 @@
+.content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 60%;
+    margin: auto;
+    height:350px;
+            background-size: cover;
+    background: linear-gradient(105.85deg, #bb77ff -2.87%, #6e6eff 101.15%);
+    border-radius: 20px;
+  }
+  .content:before {
+    content: ' ';
+    display: block;
+    background: #bb77ff;
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: -175px;
+    transform: skew(-10deg);
+    border-radius: 40px;
+    z-index: 1;
+  }
+  .content:after {
+    content: ' ';
+    display: block;
+    background: #6e6eff;
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: -175px;
+    transform: skew(10deg);
+    border-radius: 40px;
+    z-index: 1;
+  }
+
+ .HomeProjects-parent .fa-solid,.HomeProjects-parent .fas {
+    font-weight: 900;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 14px 16px;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+}
+.edificeSwiper-title{
+  text-align: center;
+  color: #fff;
+  padding: 15px 0px 5px 0px;
+}
+.Testimonial-PaginationButtons{
+  position: relative;
+}
+.Exploreall-button{
+  position: absolute;
+  text-decoration: none;
+  right: 0;
+}
+.Exploreall-button button {
+  padding: 8px 15px;
+  border-radius: 30px;
+  background-color: #bc8d09;
+  border: none;
+  letter-spacing: 1px;
+}
+
+
+@media screen and (max-width:575px){
+  .HomeProjects-parent .fa-solid, .HomeProjects-parent .fas {
+    padding: 8px 9px;
+    font-size: 14px;
+}
+.Exploreall-button {
+  font-size: 13px;
+}
+.Exploreall-button button {
+  padding: 8px 10px;
+  position: relative;
+  right: 10px;
+}
+.Testimonial-PaginationButtons.d-flex.justify-content-center.align-items-center.gap-5.mt-4 {
+  justify-content: flex-start !important;
+  gap: 15px !important;
+  padding-left: 20px;
+}
+.Testimonials-Main-content-parent .Testimonial-PaginationButtons.d-flex.justify-content-center.align-items-center.gap-5.mt-4 {
+  justify-content: center !important;
+}
+}
+@media screen and (min-width:576px) and (max-width:767px){
+  .HomeProjects-parent .fa-solid, .HomeProjects-parent .fas {
+    font-size: 13px;
+    padding: 10px 12px;
+  }
+}
+
+.trapezoid-container {
+  position: relative;
+  width: 80%;
+  height: 350px;
+  margin: auto; /* Center the container */
+  overflow: hidden;
+}
+
+.trapezoid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  clip-path: polygon(29.99% 52.99%, 70.71% 52.99%, 75% 75%, 25% 75%);
+  border-radius: 15px; /* Apply border-radius directly */
+  overflow: hidden;
+}
+
+.trapezoid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  clip-path: polygon(29.99% 52.99%, 70.71% 52.99%, 75% 75%, 25% 75%);
+}
+
+.trapezoid::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  clip-path: polygon(29.99% 52.99%, 70.71% 52.99%, 75% 75%, 25% 75%);
+  border-radius: 15px; /* Apply border-radius directly */
+  z-index: 1;
+}
+

@@ -1,0 +1,322 @@
+.Highlights-bordercircle h6 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: #002150;
+}
+
+.Highlights-bordercircle p {
+    font-size: 13px;
+    text-align: center;
+    width: 75%;
+}
+
+
+.Highlights-bordercircle-parent {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.Highlights-bordercircle {
+    border: 3px solid black;
+    border-radius: 20%;
+    width: 200px;
+    height: 190px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px #000, rgba(0, 0, 0, 0.18) 0px 30px 117px;    margin-bottom: 40px;
+}
+.Highlights-sub-parent {
+    padding-top: 20px;
+}
+.Highlights-borderdcfgbhnj {
+    width: 58%;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.firstrow-parent{
+    padding-top: 50px;
+}
+.PropertyDetails-Highlights {
+    margin: 15px 0 30px 0px;
+    /* background-image: url("/public/Vector12.png"); */
+    background-repeat: no-repeat;
+    background-size: 85% 63.5%;
+    background-position-x: right;
+}
+
+.Highlights-bordercircle2 {
+    border: 3px solid black;
+    border-radius: 20%;
+    width: 200px;
+    height: 190px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 30px 90px;
+}
+
+.Highlights-bordercircle2 h6 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: #002150;
+}
+
+.Highlights-bordercircle2 p {
+    font-size: 14px;
+    text-align: center;
+    width: 92%;
+}
+
+.Highlights-image {
+    width: 55px;
+    height: 55px;
+    margin: 24px 0;
+    border-radius: 50%;
+    background: #edf2fa;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Highlights-image img {
+    width: 100%;
+    height: 100%;
+}
+@media screen and (max-width:1199px){
+    .firstrow-parent{
+        padding-top:0px;
+    }
+}
+@media screen and (max-width:575px) {
+    .Highlights-borderdcfgbhnj {
+        flex-direction: column;
+    }
+
+    .PropertyDetails-Highlights {
+        display: flex;
+    }
+
+    .Highlights-image {
+        margin: 12px 0;
+        width: 50px;
+        height: 50px;
+        padding: 8px;
+    }
+    .Highlights-sub-parent h1 {
+        padding-left: 17px;
+        font-size: 22px;
+        padding-top: 15px;
+    }
+    .Highlights-main-parent {
+        border-bottom: 2px solid #002150;
+        border-top: 2px solid #002150;
+        overflow-x: scroll;
+    }
+    .Highlights-bordercircle {
+        width: 150px;
+        height: 160px;
+        margin: auto auto 12px auto;
+        padding: 0;
+    }
+
+    .Highlights-bordercircle2 {
+        width: 155px;
+        height: 160px;
+        margin: auto auto 12px auto;
+    }
+
+    .PropertyDetails-Highlights {
+        margin: 25px 0;
+        background-size: 100% 32%;
+    }
+
+    .Highlights-bordercircle h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle p {
+        font-size: 11px;
+    }
+
+    .Highlights-bordercircle2 h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle2 p {
+        font-size: 11px;
+    }
+}
+
+@media screen and (min-width:575px) and (max-width:768px) {
+    .Highlights-borderdcfgbhnj {
+        flex-direction: row;
+        width: 97% !important;
+        gap: 8px;
+        margin: auto;
+
+    }
+    .Highlights-sub-parent h1 {
+        padding-left: 35px;
+        padding-top: 15px;
+        font-size: 26px;
+    }
+    .PropertyDetails-Highlights {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Highlights-image {
+        margin: 12px 0;
+        width: 32px;
+        height: 32px;
+        padding: 6px;
+    }
+
+    .Highlights-bordercircle {
+        width: 144px;
+        height: 130px;
+        margin: auto auto 12px auto;
+    }
+
+    .Highlights-bordercircle2 {
+        width: 144px;
+        height: 130px;
+        margin: auto auto 15px auto;
+    }
+
+    .PropertyDetails-Highlights {
+        margin: 25px 0;
+    }
+
+    .Highlights-bordercircle h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle p {
+        font-size: 11px;
+    }
+
+    .Highlights-bordercircle2 h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle2 p {
+        font-size: 11px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px) {
+    .Highlights-borderdcfgbhnj {
+        flex-direction: row;
+        width: 95% !important;
+        gap: 10px;
+    }
+
+    .PropertyDetails-Highlights {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Highlights-image {
+        margin: 12px 0;
+        width: 32px;
+        height: 32px;
+        padding: 5px;
+    }
+
+    .Highlights-bordercircle {
+        width: 160px;
+        height: 158px;
+        margin: auto auto 12px auto;
+    }
+
+    .Highlights-bordercircle2 {
+        width: 160px;
+        height: 158px;
+        margin: auto auto 15px auto;
+    }
+
+    .PropertyDetails-Highlights {
+        margin: 25px 0;
+    }
+
+    .Highlights-bordercircle h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle p {
+        font-size: 10px;
+    }
+
+    .Highlights-bordercircle2 h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle2 p {
+        font-size: 10px;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1280px) {
+    .Highlights-borderdcfgbhnj {
+        flex-direction: row;
+        width: 48%;
+        gap: 15px;
+    }
+
+    .PropertyDetails-Highlights {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .Highlights-image {
+        margin: 20px 0;
+        width: 32px;
+        height: 32px;
+        padding: 6px;
+    }
+
+    .Highlights-bordercircle {
+        width: 175px;
+        height: 170px;
+
+        margin: auto auto 15px auto;
+    }
+
+    .Highlights-bordercircle2 {
+        width: 175px;
+        height: 170px;
+
+        margin: auto auto 15px auto;
+    }
+
+    .PropertyDetails-Highlights {
+        margin: 25px 0;
+    }
+
+    .Highlights-bordercircle h6 {
+        font-size: 12px;
+    }
+
+    .Highlights-bordercircle p {
+        font-size: 12px;
+        width: 88%;
+    }
+
+    .Highlights-bordercircle2 h6 {
+        font-size: 14px;
+    }
+
+    .Highlights-bordercircle2 p {
+        font-size: 12px;
+        width: 88%;
+    }
+}
