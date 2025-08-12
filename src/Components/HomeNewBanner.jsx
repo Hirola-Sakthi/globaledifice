@@ -21,6 +21,7 @@ const HomeNewBanner = () => {
   const handleCancel = () => {
     setIsModalOpen(false);
   };
+
   return (
     <>
       <div className="HomeBanner-parent">
@@ -37,7 +38,17 @@ const HomeNewBanner = () => {
             playsInline={true}
             webkit-playsinline="true"
             preload="auto"
-            src="/media/Website Banner Video.mp4"
+            src={'/media/website-banner-video.mp4'}
+          ></video>
+          <video
+            className="mobile-banner-video"
+            loop={true}
+            autoPlay={true}
+            muted={true}
+            playsInline={true}
+            webkit-playsinline="true"
+            preload="auto"
+            src={'/media/web-animation-mobile-video.mp4'}
           ></video>
           {/* <div className="HomeBanner-absolutetitle">
             <h1 className="text-center">Global Edifice <br /> We Don't Just Build, We Redefine.</h1>

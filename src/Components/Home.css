@@ -1851,8 +1851,12 @@ button.btn.my-2.my-sm-0 {
     font-size: 34px !important;
   }
   .banner-video {
+    display: none !important;
+  }
+  .mobile-banner-video {
     width: auto !important;
     height: 800px !important;
+    display: inline-block !important;
   }
 }
 
@@ -2169,6 +2173,9 @@ button.btn.my-2.my-sm-0 {
   .mobile-title {
     display: none !important;
   }
+  /* .banner-video {
+    display: none !important;
+  } */
   .banner-video {
     width: auto !important;
     height: 800px !important;
@@ -2817,10 +2824,50 @@ body {
   }
 
   .banner-video {
-    width: auto !important;
-    height: 800px !important;
+   display: none !important;
+  }
+  .mobile-banner-video {
+    width: 100% !important;
+    height: 620px !important;
+    object-fit: cover;
+    object-position: center;
+    display: inline-block !important;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .banner-video {
+    width: 100% !important;
+    height: 650px !important;
+    object-fit: cover;
+    object-position: center;
+  }
+  .mobile-banner-video {
+    display: none;
+    width: 100% !important;
+    height: 620px !important;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+@media screen and (max-width: 910px) {
+  .banner-video {
+    width: 100% !important;
+    height: 650px !important;
+    object-fit: cover;
+    object-position: center;
+  }
+  .mobile-banner-video {
+    display: none;
+    width: 100% !important;
+    height: 620px !important;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+
+
 
 .HomeBanner-image-main
   .swiper.swiper-initialized.swiper-horizontal.swiper-backface-hidden.banner-swiper {
@@ -2963,6 +3010,11 @@ body {
   width: 100%;
   height: fit-content;
 }
+.mobile-banner-video {
+  display: none;
+  width: 100%;
+  height: fit-content;
+}
 
 .HomeBanner-absolutetitle {
   position: absolute;
@@ -3085,7 +3137,11 @@ body {
 
 /* Bounce animation keyframes */
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     transform: translateY(0) translateX(-50%);
   }
   40% {
@@ -3111,7 +3167,8 @@ body {
 
 /* Subtle bounce variation */
 @keyframes subtleBounce {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0) translateX(-50%);
   }
   50% {
